@@ -1,0 +1,2222 @@
+occupationLabel,relationType,skillLabel
+ICT security administrator,essential,ICT safety
+ICT security administrator,essential,ethical hacking principles
+ICT security administrator,essential,ICT network security risks
+ICT security administrator,essential,system backup best practice
+ICT security administrator,essential,internet governance
+ICT security administrator,essential,cyber attack counter-measures
+ICT security administrator,essential,security engineering
+ICT security administrator,essential,organisational resilience
+ICT security administrator,essential,database development tools
+ICT security administrator,essential,quality assurance methodologies
+ICT security administrator,essential,mobile device management
+ICT security administrator,essential,network standards
+ICT security administrator,essential,Internet of Things
+ICT security administrator,essential,operating systems
+ICT security administrator,essential,manage IT security compliances
+ICT security administrator,essential,apply company policies
+ICT security administrator,essential,manage ICT data architecture
+ICT security administrator,essential,perform ICT troubleshooting
+ICT security administrator,essential,attend to ICT systems quality
+ICT security administrator,essential,interpret technical texts
+ICT security administrator,essential,solve ICT system problems
+ICT security administrator,essential,maintain ICT identity management
+ICT security administrator,essential,ensure proper document management
+ICT security administrator,essential,identify ICT system weaknesses
+ICT security administrator,essential,maintain database security
+ICT security administrator,optional,computer forensics
+ICT security administrator,optional,information security strategy
+ICT security administrator,optional,cloud security and compliance
+ICT security administrator,optional,ICT security standards
+ICT security administrator,optional,ICT security legislation
+ICT security administrator,optional,telecom regulations
+ICT security administrator,optional,cyber security
+ICT security administrator,optional,cloud monitoring and reporting
+ICT security administrator,optional,web application security threats
+ICT security administrator,optional,information confidentiality
+ICT security administrator,optional,ICT infrastructure
+ICT security administrator,optional,ICT encryption
+ICT security administrator,optional,assess ICT knowledge
+ICT security administrator,optional,implement ICT security policies
+ICT security administrator,optional,manage database
+ICT security administrator,optional,protect personal data and privacy
+ICT security administrator,optional,respond to incidents in cloud
+ICT security administrator,optional,use scripting programming
+ICT security administrator,optional,store digital data and systems
+ICT security administrator,optional,execute ICT audits
+ICT security administrator,optional,remove computer virus or malware from a computer
+ICT security administrator,optional,execute software tests
+ICT security administrator,optional,implement a virtual private network
+ICT security administrator,optional,manage ICT virtualisation environments
+ICT security administrator,optional,address problems critically
+ICT security administrator,optional,implement anti-virus software
+ICT security administrator,optional,implement cloud security and compliance
+ICT security administrator,optional,perform backups
+ICT security administrator,optional,manage cloud data and storage
+ICT security administrator,optional,build business relationships
+ICT security administrator,optional,lead disaster recovery exercises
+ICT security administrator,optional,train employees
+ICT security administrator,optional,implement a firewall
+ICT security administrator,optional,manage keys for data protection
+digital forensics expert,essential,digital data processing
+digital forensics expert,essential,computer forensics
+digital forensics expert,essential,check methods
+digital forensics expert,essential,ICT network security risks
+digital forensics expert,essential,ICT security standards
+digital forensics expert,essential,attack vectors
+digital forensics expert,essential,cyber attack counter-measures
+digital forensics expert,essential,security threats
+digital forensics expert,essential,audit techniques
+digital forensics expert,essential,security engineering
+digital forensics expert,essential,tools for ICT test automation
+digital forensics expert,essential,ICT security legislation
+digital forensics expert,essential,cyber security
+digital forensics expert,essential,levels of software testing
+digital forensics expert,essential,forensic intelligence
+digital forensics expert,essential,resource description framework query language
+digital forensics expert,essential,query languages
+digital forensics expert,essential,information confidentiality
+digital forensics expert,essential,ICT infrastructure
+digital forensics expert,essential,GDPR
+digital forensics expert,essential,penetration testing tool
+digital forensics expert,essential,operating systems
+digital forensics expert,essential,manage IT security compliances
+digital forensics expert,essential,gather data for forensic purposes
+digital forensics expert,essential,establish an ICT security prevention plan
+digital forensics expert,essential,provide ICT consulting advice
+digital forensics expert,essential,perform forensic preservations of digital devices
+digital forensics expert,essential,present evidence
+digital forensics expert,essential,develop information security strategy
+digital forensics expert,essential,use software for data preservation
+digital forensics expert,essential,use technology for forensics
+digital forensics expert,essential,use scripting programming
+digital forensics expert,essential,educate on data confidentiality
+digital forensics expert,essential,apply reverse engineering
+digital forensics expert,essential,manage data for legal matters
+digital forensics expert,essential,implement ICT network diagnostic tools
+digital forensics expert,essential,identify ICT system weaknesses
+digital forensics expert,essential,secure sensitive customer's information
+digital forensics expert,essential,perform ICT security testing
+digital forensics expert,essential,identify ICT security risks
+digital forensics expert,optional,Maltego
+digital forensics expert,optional,Cain and Abel (penetration testing tool)
+digital forensics expert,optional,hardware platforms
+digital forensics expert,optional,information security strategy
+digital forensics expert,optional,MDX
+digital forensics expert,optional,information architecture
+digital forensics expert,optional,OWASP ZAP
+digital forensics expert,optional,Nessus
+digital forensics expert,optional,XQuery
+digital forensics expert,optional,Metasploit
+digital forensics expert,optional,Aircrack (penetration testing tool)
+digital forensics expert,optional,Backbox (penetration testing tool)
+digital forensics expert,optional,SPARQL
+digital forensics expert,optional,Kali Linux
+digital forensics expert,optional,John The Ripper (penetration testing tool)
+digital forensics expert,optional,BlackArch
+digital forensics expert,optional,Wireshark
+digital forensics expert,optional,LDAP
+digital forensics expert,optional,data storage
+digital forensics expert,optional,legal requirements of ICT products
+digital forensics expert,optional,Parrot Security OS
+digital forensics expert,optional,Samurai Web Testing Framework
+digital forensics expert,optional,cloud technologies
+digital forensics expert,optional,LINQ
+digital forensics expert,optional,ICT encryption
+digital forensics expert,optional,hardware architectures
+digital forensics expert,optional,WhiteHat Sentinel
+digital forensics expert,optional,Nexpose
+digital forensics expert,optional,THC Hydra
+digital forensics expert,optional,N1QL
+digital forensics expert,optional,implement ICT security policies
+digital forensics expert,optional,design computer network
+digital forensics expert,optional,use different communication channels
+digital forensics expert,optional,perform data mining
+digital forensics expert,optional,analyse network configuration and performance
+digital forensics expert,optional,manage cloud data and storage
+digital forensics expert,optional,collect cyber defence data
+cyber incident responder,essential,ICT safety
+cyber incident responder,essential,building systems monitoring technology
+cyber incident responder,essential,ethical hacking principles
+cyber incident responder,essential,ICT network security risks
+cyber incident responder,essential,ICT security standards
+cyber incident responder,essential,operational tactics for emergency responses
+cyber incident responder,essential,attack vectors
+cyber incident responder,essential,cyber attack counter-measures
+cyber incident responder,essential,security threats
+cyber incident responder,essential,risk management
+cyber incident responder,essential,security engineering
+cyber incident responder,essential,ICT security legislation
+cyber incident responder,essential,cyber security
+cyber incident responder,essential,GDPR
+cyber incident responder,essential,incidents and accidents recording
+cyber incident responder,essential,operating systems
+cyber incident responder,essential,create incident reports
+cyber incident responder,essential,provide ICT consulting advice
+cyber incident responder,essential,communicate with stakeholders
+cyber incident responder,essential,handle cybersecurity incidents
+cyber incident responder,essential,engage with stakeholders
+cyber incident responder,essential,protect ICT devices
+cyber incident responder,essential,collect cyber defence data
+cyber incident responder,optional,information security strategy
+cyber incident responder,optional,business intelligence
+cyber incident responder,optional,defence standard procedures
+cyber incident responder,optional,cloud security and compliance
+cyber incident responder,optional,embedded systems
+cyber incident responder,optional,safety engineering
+cyber incident responder,optional,internet governance
+cyber incident responder,optional,project management
+cyber incident responder,optional,cloud monitoring and reporting
+cyber incident responder,optional,web application security threats
+cyber incident responder,optional,C++
+cyber incident responder,optional,cloud technologies
+cyber incident responder,optional,ICT project management methodologies
+cyber incident responder,optional,Python (computer programming)
+cyber incident responder,optional,ICT encryption
+cyber incident responder,optional,leadership principles
+cyber incident responder,optional,Process-based management
+cyber incident responder,optional,lean project management
+cyber incident responder,optional,copyright legislation
+cyber incident responder,optional,Internet of Things
+cyber incident responder,optional,ICT process quality models
+cyber incident responder,optional,manage IT security compliances
+cyber incident responder,optional,manage ICT change request process
+cyber incident responder,optional,implement ICT security policies
+cyber incident responder,optional,perform risk analysis
+cyber incident responder,optional,manage changes in ICT system
+cyber incident responder,optional,create project specifications
+cyber incident responder,optional,troubleshoot
+cyber incident responder,optional,protect personal data and privacy
+cyber incident responder,optional,develop information security strategy
+cyber incident responder,optional,provide user documentation
+cyber incident responder,optional,optimise choice of ICT solution
+cyber incident responder,optional,perform scientific research
+cyber incident responder,optional,define quality standards
+cyber incident responder,optional,ensure information security
+cyber incident responder,optional,implement ICT risk management
+cyber incident responder,optional,provide information
+cyber incident responder,optional,remove computer virus or malware from a computer
+cyber incident responder,optional,track key performance indicators
+cyber incident responder,optional,monitor system performance
+cyber incident responder,optional,consult with business clients
+cyber incident responder,optional,implement a virtual private network
+cyber incident responder,optional,implement anti-virus software
+cyber incident responder,optional,manage digital identity
+cyber incident responder,optional,ensure proper document management
+cyber incident responder,optional,implement spam protection
+cyber incident responder,optional,give live presentation
+cyber incident responder,optional,manage a team
+cyber incident responder,optional,perform project management
+cyber incident responder,optional,lead disaster recovery exercises
+cyber incident responder,optional,implement a firewall
+cyber incident responder,optional,manage keys for data protection
+software tester,essential,software architecture models
+software tester,essential,software anomalies
+software tester,essential,levels of software testing
+software tester,essential,software metrics
+software tester,essential,report test findings
+software tester,essential,provide software testing documentation
+software tester,essential,perform software unit testing
+software tester,essential,execute software tests
+software tester,essential,address problems critically
+software tester,essential,replicate customer software issues
+software tester,optional,Haskell
+software tester,optional,Erlang
+software tester,optional,SAS language
+software tester,optional,Agile project management
+software tester,optional,Ruby (computer programming)
+software tester,optional,Common Lisp
+software tester,optional,Lisp
+software tester,optional,Visual Basic
+software tester,optional,Java (computer programming)
+software tester,optional,MDX
+software tester,optional,computer programming
+software tester,optional,Prolog (computer programming)
+software tester,optional,OpenEdge Advanced Business Language
+software tester,optional,digital systems
+software tester,optional,JavaScript
+software tester,optional,XQuery
+software tester,optional,Perl
+software tester,optional,Smalltalk (computer programming)
+software tester,optional,PHP
+software tester,optional,Assembly (computer programming)
+software tester,optional,software components libraries
+software tester,optional,hardware components
+software tester,optional,C#
+software tester,optional,R
+software tester,optional,Groovy
+software tester,optional,ASP.NET
+software tester,optional,APL
+software tester,optional,SPARQL
+software tester,optional,ICT debugging tools
+software tester,optional,audit techniques
+software tester,optional,tools for ICT test automation
+software tester,optional,Microsoft Visual C++
+software tester,optional,TypeScript
+software tester,optional,resource description framework query language
+software tester,optional,CoffeeScript
+software tester,optional,Objective-C
+software tester,optional,query languages
+software tester,optional,ML (computer programming)
+software tester,optional,LDAP
+software tester,optional,AJAX
+software tester,optional,C++
+software tester,optional,trading software
+software tester,optional,SAP R3
+software tester,optional,Swift (computer programming)
+software tester,optional,ICT project management methodologies
+software tester,optional,MATLAB
+software tester,optional,application usability
+software tester,optional,unstructured data
+software tester,optional,LINQ
+software tester,optional,Python (computer programming)
+software tester,optional,Scratch (computer programming)
+software tester,optional,Process-based management
+software tester,optional,lean project management
+software tester,optional,VBScript
+software tester,optional,COBOL
+software tester,optional,Pascal (computer programming)
+software tester,optional,ABAP
+software tester,optional,ICT performance analysis methods
+software tester,optional,N1QL
+software tester,optional,Scala
+software tester,optional,manage schedule of tasks
+software tester,optional,debug software
+software tester,optional,plan software testing
+software tester,optional,use scripting programming
+software tester,optional,develop automated software tests
+software tester,optional,develop ICT test suite
+software tester,optional,conduct ICT code review
+software tester,optional,measure software usability
+software tester,optional,execute integration testing
+software tester,optional,perform software recovery testing
+data engineer,essential,digital data processing
+data engineer,essential,data warehouse
+data engineer,essential,computer science
+data engineer,essential,data analytics
+data engineer,essential,data storage
+data engineer,essential,database management systems
+data engineer,essential,cloud technologies
+data engineer,essential,unstructured data
+data engineer,essential,data models
+data engineer,essential,manage research data
+data engineer,essential,use data processing techniques
+data engineer,essential,establish data processes
+data engineer,essential,perform dimensionality reduction
+data engineer,essential,use databases
+data engineer,essential,manage ICT data architecture
+data engineer,essential,manage quantitative data
+data engineer,essential,store digital data and systems
+data engineer,essential,design database in the cloud
+data engineer,essential,create data sets
+data engineer,essential,manage data
+data engineer,essential,process data
+data engineer,essential,develop data processing applications
+data engineer,essential,implement data warehousing techniques
+data engineer,optional,statistics
+data engineer,optional,Teradata Database
+data engineer,optional,SAS Data Management
+data engineer,optional,analyse pipeline database information
+data engineer,optional,create data models
+data scientist,essential,mathematical modelling
+data scientist,essential,data mining
+data scientist,essential,visual presentation techniques
+data scientist,essential,data engineering
+data scientist,essential,quantitative analysis
+data scientist,essential,data visualisation software
+data scientist,essential,statistical modeling techniques
+data scientist,essential,information extraction
+data scientist,essential,scientific literature
+data scientist,essential,statistics
+data scientist,essential,information categorisation
+data scientist,essential,resource description framework query language
+data scientist,essential,query languages
+data scientist,essential,online analytical processing
+data scientist,essential,data ethics
+data scientist,essential,data science
+data scientist,essential,empirical analysis
+data scientist,essential,data models
+data scientist,essential,draft scientific or academic papers and technical documentation
+data scientist,essential,normalise data
+data scientist,essential,manage research data
+data scientist,essential,use data processing techniques
+data scientist,essential,interpret current data
+data scientist,essential,interact professionally in research and professional environments
+data scientist,essential,disseminate results to the scientific community
+data scientist,essential,operate open source software
+data scientist,essential,establish data processes
+data scientist,essential,speak different languages
+data scientist,essential,execute analytical mathematical calculations
+data scientist,essential,evaluate research activities
+data scientist,essential,demonstrate disciplinary expertise
+data scientist,essential,use databases
+data scientist,essential,handle data samples
+data scientist,essential,increase the impact of science on policy and society
+data scientist,essential,manage findable accessible interoperable and reusable data
+data scientist,essential,perform scientific research
+data scientist,essential,build recommender systems
+data scientist,essential,perform data cleansing
+data scientist,essential,manage intellectual property rights
+data scientist,essential,apply for research funding
+data scientist,essential,design database scheme
+data scientist,essential,implement data quality processes
+data scientist,essential,collect ICT data
+data scientist,essential,apply research ethics and scientific integrity principles in research activities
+data scientist,essential,promote open innovation in research
+data scientist,essential,publish academic research
+data scientist,essential,promote the transfer of knowledge
+data scientist,essential,think abstractly
+data scientist,essential,mentor individuals
+data scientist,essential,manage data collection systems
+data scientist,essential,manage personal professional development
+data scientist,essential,write scientific publications
+data scientist,essential,deliver visual presentation of data
+data scientist,essential,report analysis results
+data scientist,essential,develop professional network with researchers and scientists
+data scientist,essential,integrate gender dimension in research
+data scientist,essential,perform project management
+data scientist,essential,manage open publications
+data scientist,essential,synthesise information
+data scientist,essential,conduct research across disciplines
+data scientist,essential,develop data processing applications
+data scientist,essential,promote the participation of citizens in scientific and research activities
+data scientist,essential,communicate with a non-scientific audience
+data scientist,optional,computer simulation
+data scientist,optional,marketing analytics
+data scientist,optional,business intelligence
+data scientist,optional,MDX
+data scientist,optional,social network analysis
+data scientist,optional,XQuery
+data scientist,optional,image recognition
+data scientist,optional,scientific computing
+data scientist,optional,SPARQL
+data scientist,optional,research design
+data scientist,optional,digital curation
+data scientist,optional,business analytics
+data scientist,optional,multidisciplinary research
+data scientist,optional,healthcare analytics
+data scientist,optional,LDAP
+data scientist,optional,unstructured data
+data scientist,optional,LINQ
+data scientist,optional,data quality assessment
+data scientist,optional,state estimation
+data scientist,optional,Hadoop
+data scientist,optional,computational biology
+data scientist,optional,N1QL
+data scientist,optional,manage ICT data classification
+data scientist,optional,use spreadsheets software
+data scientist,optional,perform data mining
+data scientist,optional,integrate ICT data
+data scientist,optional,teach in academic or vocational contexts
+data scientist,optional,manage ICT data architecture
+data scientist,optional,define data quality criteria
+data scientist,optional,design database in the cloud
+data scientist,optional,manage data
+data scientist,optional,apply blended learning
+data scientist,optional,make data-driven decisions
+data scientist,optional,create data models
+mobile application developer,essential,computer programming
+mobile application developer,essential,ICT debugging tools
+mobile application developer,essential,integrated development environment software
+mobile application developer,essential,mobile operating systems
+mobile application developer,essential,tools for software configuration management
+mobile application developer,essential,Internet of Things
+mobile application developer,essential,migrate existing data
+mobile application developer,essential,use an application-specific interface
+mobile application developer,essential,develop automated migration methods
+mobile application developer,essential,utilise computer-aided software engineering tools
+mobile application developer,essential,debug software
+mobile application developer,essential,use software design patterns
+mobile application developer,essential,collect customer feedback on applications
+mobile application developer,essential,develop software prototype
+mobile application developer,essential,interpret technical texts
+mobile application developer,essential,use software libraries
+mobile application developer,essential,create flowchart diagram
+mobile application developer,essential,analyse software specifications
+mobile application developer,optional,Haskell
+mobile application developer,optional,KDevelop
+mobile application developer,optional,Erlang
+mobile application developer,optional,SAS language
+mobile application developer,optional,Ruby (computer programming)
+mobile application developer,optional,Common Lisp
+mobile application developer,optional,Apache Maven
+mobile application developer,optional,Lisp
+mobile application developer,optional,Visual Basic
+mobile application developer,optional,screen reader
+mobile application developer,optional,Java (computer programming)
+mobile application developer,optional,Prolog (computer programming)
+mobile application developer,optional,OpenEdge Advanced Business Language
+mobile application developer,optional,digital systems
+mobile application developer,optional,JavaScript
+mobile application developer,optional,Perl
+mobile application developer,optional,Smalltalk (computer programming)
+mobile application developer,optional,PHP
+mobile application developer,optional,software anomalies
+mobile application developer,optional,Xcode
+mobile application developer,optional,Assembly (computer programming)
+mobile application developer,optional,C#
+mobile application developer,optional,R
+mobile application developer,optional,Groovy
+mobile application developer,optional,ASP.NET
+mobile application developer,optional,APL
+mobile application developer,optional,object-oriented modelling
+mobile application developer,optional,Puppet (tools for software configuration management)
+mobile application developer,optional,STAF
+mobile application developer,optional,Eclipse (integrated development environment software)
+mobile application developer,optional,Ansible
+mobile application developer,optional,ICT security legislation
+mobile application developer,optional,Microsoft Visual C++
+mobile application developer,optional,TypeScript
+mobile application developer,optional,World Wide Web Consortium standards
+mobile application developer,optional,CoffeeScript
+mobile application developer,optional,Objective-C
+mobile application developer,optional,ML (computer programming)
+mobile application developer,optional,augmented reality
+mobile application developer,optional,SPARK
+mobile application developer,optional,AJAX
+mobile application developer,optional,C++
+mobile application developer,optional,mobile device software frameworks
+mobile application developer,optional,BlackBerry
+mobile application developer,optional,SAP R3
+mobile application developer,optional,Swift (computer programming)
+mobile application developer,optional,MATLAB
+mobile application developer,optional,Salt (tools for software configuration management)
+mobile application developer,optional,Python (computer programming)
+mobile application developer,optional,iOS
+mobile application developer,optional,Joomla
+mobile application developer,optional,Scratch (computer programming)
+mobile application developer,optional,Android (mobile operating systems)
+mobile application developer,optional,VBScript
+mobile application developer,optional,COBOL
+mobile application developer,optional,Pascal (computer programming)
+mobile application developer,optional,ABAP
+mobile application developer,optional,Jenkins (tools for software configuration management)
+mobile application developer,optional,Scala
+mobile application developer,optional,identify customer requirements
+mobile application developer,optional,use concurrent programming
+mobile application developer,optional,use logic programming
+mobile application developer,optional,use object-oriented programming
+mobile application developer,optional,use query languages
+mobile application developer,optional,use automatic programming
+mobile application developer,optional,develop creative ideas
+mobile application developer,optional,use functional programming
+mobile application developer,optional,integrate system components
+mobile application developer,optional,adapt to changes in technological development plans
+mobile application developer,optional,design user interface
+cloud architect,essential,cloud technologies
+cloud architect,essential,plan migration to cloud
+cloud architect,essential,design cloud architecture
+cloud architect,essential,design cloud networks
+cloud architect,essential,deploy cloud resource
+cloud architect,essential,collaborate with engineers
+cloud architect,optional,Agile project management
+cloud architect,optional,cloud security and compliance
+cloud architect,optional,ICT architectural frameworks
+cloud architect,optional,Agile development
+cloud architect,optional,DevOps
+cloud architect,optional,do cloud refactoring
+cloud architect,optional,develop with cloud services
+cloud architect,optional,coordinate engineering teams
+cloud architect,optional,design database in the cloud
+cloud architect,optional,automate cloud tasks
+cloud architect,optional,design for organisational complexity
+cloud engineer,essential,systems development life-cycle
+cloud engineer,essential,cloud security and compliance
+cloud engineer,essential,computer programming
+cloud engineer,essential,ICT system integration
+cloud engineer,essential,cyber security
+cloud engineer,essential,service-oriented modelling
+cloud engineer,essential,cloud monitoring and reporting
+cloud engineer,essential,database development tools
+cloud engineer,essential,ICT system programming
+cloud engineer,essential,cloud technologies
+cloud engineer,essential,systems theory
+cloud engineer,essential,web services
+cloud engineer,essential,operating systems
+cloud engineer,essential,plan migration to cloud
+cloud engineer,essential,design cloud architecture
+cloud engineer,essential,debug software
+cloud engineer,essential,align software with system architectures
+cloud engineer,essential,do cloud refactoring
+cloud engineer,essential,respond to incidents in cloud
+cloud engineer,essential,design cloud networks
+cloud engineer,essential,deploy cloud resource
+cloud engineer,essential,develop with cloud services
+cloud engineer,essential,develop software prototype
+cloud engineer,essential,design database in the cloud
+cloud engineer,essential,interpret technical texts
+cloud engineer,essential,solve ICT system problems
+cloud engineer,essential,analyse business requirements
+cloud engineer,essential,implement cloud security and compliance
+cloud engineer,essential,automate cloud tasks
+cloud engineer,essential,manage cloud data and storage
+cloud engineer,essential,design for organisational complexity
+cloud engineer,essential,manage keys for data protection
+cloud engineer,essential,analyse software specifications
+cloud engineer,optional,Ruby (computer programming)
+cloud engineer,optional,Java (computer programming)
+cloud engineer,optional,ICT security standards
+cloud engineer,optional,data engineering
+cloud engineer,optional,security engineering
+cloud engineer,optional,Python (computer programming)
+cloud engineer,optional,ethics
+cloud engineer,optional,design interaction model
+cloud engineer,optional,perform data analysis
+cloud engineer,optional,use query languages
+cloud engineer,optional,apply risk management processes
+cloud engineer,optional,apply ICT systems theory
+artificial intelligence engineer,essential,digital data processing
+artificial intelligence engineer,essential,information structure
+artificial intelligence engineer,essential,computer simulation
+artificial intelligence engineer,essential,systems development life-cycle
+artificial intelligence engineer,essential,information architecture
+artificial intelligence engineer,essential,computer programming
+artificial intelligence engineer,essential,data mining
+artificial intelligence engineer,essential,visual presentation techniques
+artificial intelligence engineer,essential,algorithms
+artificial intelligence engineer,essential,artificial neural networks
+artificial intelligence engineer,essential,information extraction
+artificial intelligence engineer,essential,task algorithmisation
+artificial intelligence engineer,essential,information categorisation
+artificial intelligence engineer,essential,business process modelling
+artificial intelligence engineer,essential,resource description framework query language
+artificial intelligence engineer,essential,unstructured data
+artificial intelligence engineer,essential,Python (computer programming)
+artificial intelligence engineer,essential,principles of artificial intelligence
+artificial intelligence engineer,essential,data science
+artificial intelligence engineer,essential,data models
+artificial intelligence engineer,essential,creatively use digital technologies
+artificial intelligence engineer,essential,use data processing techniques
+artificial intelligence engineer,essential,design process
+artificial intelligence engineer,essential,analyse big data
+artificial intelligence engineer,essential,develop creative ideas
+artificial intelligence engineer,essential,create data sets
+artificial intelligence engineer,essential,analyse business requirements
+artificial intelligence engineer,essential,develop statistical software
+artificial intelligence engineer,essential,deliver visual presentation of data
+artificial intelligence engineer,essential,apply ICT systems theory
+artificial intelligence engineer,essential,define technical requirements
+artificial intelligence engineer,optional,Haskell
+artificial intelligence engineer,optional,Erlang
+artificial intelligence engineer,optional,SAS language
+artificial intelligence engineer,optional,Agile project management
+artificial intelligence engineer,optional,Ruby (computer programming)
+artificial intelligence engineer,optional,Common Lisp
+artificial intelligence engineer,optional,Lisp
+artificial intelligence engineer,optional,Visual Basic
+artificial intelligence engineer,optional,business intelligence
+artificial intelligence engineer,optional,Java (computer programming)
+artificial intelligence engineer,optional,Prolog (computer programming)
+artificial intelligence engineer,optional,OpenEdge Advanced Business Language
+artificial intelligence engineer,optional,JavaScript
+artificial intelligence engineer,optional,Perl
+artificial intelligence engineer,optional,Smalltalk (computer programming)
+artificial intelligence engineer,optional,PHP
+artificial intelligence engineer,optional,Assembly (computer programming)
+artificial intelligence engineer,optional,C#
+artificial intelligence engineer,optional,R
+artificial intelligence engineer,optional,Groovy
+artificial intelligence engineer,optional,SPARQL
+artificial intelligence engineer,optional,operational research
+artificial intelligence engineer,optional,computer vision
+artificial intelligence engineer,optional,Microsoft Visual C++
+artificial intelligence engineer,optional,TypeScript
+artificial intelligence engineer,optional,business analytics
+artificial intelligence engineer,optional,CoffeeScript
+artificial intelligence engineer,optional,Objective-C
+artificial intelligence engineer,optional,database development tools
+artificial intelligence engineer,optional,ML (computer programming)
+artificial intelligence engineer,optional,C++
+artificial intelligence engineer,optional,SAP R3
+artificial intelligence engineer,optional,Swift (computer programming)
+artificial intelligence engineer,optional,ICT project management methodologies
+artificial intelligence engineer,optional,MATLAB
+artificial intelligence engineer,optional,LINQ
+artificial intelligence engineer,optional,Scratch (computer programming)
+artificial intelligence engineer,optional,Process-based management
+artificial intelligence engineer,optional,lean project management
+artificial intelligence engineer,optional,VBScript
+artificial intelligence engineer,optional,COBOL
+artificial intelligence engineer,optional,Pascal (computer programming)
+artificial intelligence engineer,optional,deep learning
+artificial intelligence engineer,optional,N1QL
+artificial intelligence engineer,optional,Scala
+artificial intelligence engineer,optional,manage ICT data classification
+artificial intelligence engineer,optional,assess ICT knowledge
+artificial intelligence engineer,optional,build predictive models
+artificial intelligence engineer,optional,perform dimensionality reduction
+artificial intelligence engineer,optional,manage business knowledge
+artificial intelligence engineer,optional,apply systemic design thinking
+artificial intelligence engineer,optional,build recommender systems
+artificial intelligence engineer,optional,identify processes for re-engineering
+artificial intelligence engineer,optional,design database scheme
+artificial intelligence engineer,optional,utilise machine learning
+artificial intelligence engineer,optional,design application interfaces
+artificial intelligence engineer,optional,build business relationships
+artificial intelligence engineer,optional,manage ICT semantic integration
+ICT technician,essential,ICT network routing
+ICT technician,essential,procurement of ICT network equipment
+ICT technician,essential,digital systems
+ICT technician,essential,attack vectors
+ICT technician,essential,distributed directory information services
+ICT technician,essential,ICT network cable limitations
+ICT technician,essential,ICT networking hardware
+ICT technician,essential,keep up to date on product knowledge
+ICT technician,essential,define firewall rules
+ICT technician,essential,administer ICT system
+ICT technician,essential,use ICT hardware
+ICT technician,essential,use repair manuals
+ICT technician,essential,perform ICT troubleshooting
+ICT technician,essential,operate private branch exchange
+ICT technician,essential,use precision tools
+ICT technician,essential,implement a virtual private network
+ICT technician,essential,repair ICT devices
+ICT technician,essential,implement anti-virus software
+ICT technician,essential,perform backups
+ICT technician,essential,maintain ICT server
+ICT technician,essential,manage email hosting service
+ICT technician,essential,maintain ICT system
+ICT technician,essential,implement ICT recovery system
+ICT technician,optional,Haskell
+ICT technician,optional,Erlang
+ICT technician,optional,SAS language
+ICT technician,optional,Ruby (computer programming)
+ICT technician,optional,Common Lisp
+ICT technician,optional,Lisp
+ICT technician,optional,systems thinking
+ICT technician,optional,Visual Basic
+ICT technician,optional,Java (computer programming)
+ICT technician,optional,computer programming
+ICT technician,optional,Prolog (computer programming)
+ICT technician,optional,OpenEdge Advanced Business Language
+ICT technician,optional,JavaScript
+ICT technician,optional,Perl
+ICT technician,optional,Smalltalk (computer programming)
+ICT technician,optional,PHP
+ICT technician,optional,Assembly (computer programming)
+ICT technician,optional,C#
+ICT technician,optional,R
+ICT technician,optional,Groovy
+ICT technician,optional,ASP.NET
+ICT technician,optional,APL
+ICT technician,optional,ICT debugging tools
+ICT technician,optional,Outsourcing model
+ICT technician,optional,hybrid model
+ICT technician,optional,ICT communications protocols
+ICT technician,optional,Cisco
+ICT technician,optional,service-oriented modelling
+ICT technician,optional,Microsoft Visual C++
+ICT technician,optional,TypeScript
+ICT technician,optional,CoffeeScript
+ICT technician,optional,Objective-C
+ICT technician,optional,ML (computer programming)
+ICT technician,optional,ICT system programming
+ICT technician,optional,Open source model
+ICT technician,optional,AJAX
+ICT technician,optional,C++
+ICT technician,optional,SAP R3
+ICT technician,optional,Swift (computer programming)
+ICT technician,optional,MATLAB
+ICT technician,optional,ICT system user requirements
+ICT technician,optional,Python (computer programming)
+ICT technician,optional,ICT encryption
+ICT technician,optional,Scratch (computer programming)
+ICT technician,optional,VBScript
+ICT technician,optional,COBOL
+ICT technician,optional,ICT market
+ICT technician,optional,Pascal (computer programming)
+ICT technician,optional,ABAP
+ICT technician,optional,Scala
+ICT technician,optional,create solutions to problems
+ICT technician,optional,manage schedule of tasks
+ICT technician,optional,use different communication channels
+ICT technician,optional,use access control software
+ICT technician,optional,remove computer virus or malware from a computer
+ICT technician,optional,manage ICT legacy implication
+ICT technician,optional,configure ICT system
+ethical hacker,essential,building systems monitoring technology
+ethical hacker,essential,ethical hacking principles
+ethical hacker,essential,computer forensics
+ethical hacker,essential,information security strategy
+ethical hacker,essential,computer programming
+ethical hacker,essential,ICT network security risks
+ethical hacker,essential,ICT security standards
+ethical hacker,essential,software anomalies
+ethical hacker,essential,attack vectors
+ethical hacker,essential,cyber attack counter-measures
+ethical hacker,essential,security engineering
+ethical hacker,essential,ICT system integration
+ethical hacker,essential,tools for ICT test automation
+ethical hacker,essential,cyber security
+ethical hacker,essential,web application security threats
+ethical hacker,essential,legal requirements of ICT products
+ethical hacker,essential,ethics
+ethical hacker,essential,ICT infrastructure
+ethical hacker,essential,penetration testing tool
+ethical hacker,essential,operating systems
+ethical hacker,essential,execute social engineering tests
+ethical hacker,essential,manage system security
+ethical hacker,essential,communicate with stakeholders
+ethical hacker,essential,use scripting programming
+ethical hacker,essential,implement ICT risk management
+ethical hacker,essential,execute ICT audits
+ethical hacker,essential,execute software tests
+ethical hacker,essential,monitor system performance
+ethical hacker,essential,analyse the context of an organisation
+ethical hacker,essential,engage with stakeholders
+ethical hacker,essential,conduct ICT code review
+ethical hacker,essential,develop code exploits
+ethical hacker,essential,address problems critically
+ethical hacker,essential,identify ICT system weaknesses
+ethical hacker,essential,perform ICT security testing
+ethical hacker,essential,identify ICT security risks
+ethical hacker,optional,ICT safety
+ethical hacker,optional,Maltego
+ethical hacker,optional,Cain and Abel (penetration testing tool)
+ethical hacker,optional,OWASP ZAP
+ethical hacker,optional,Nessus
+ethical hacker,optional,Metasploit
+ethical hacker,optional,internet governance
+ethical hacker,optional,proxy servers
+ethical hacker,optional,Aircrack (penetration testing tool)
+ethical hacker,optional,Backbox (penetration testing tool)
+ethical hacker,optional,Kali Linux
+ethical hacker,optional,Outsourcing model
+ethical hacker,optional,hybrid model
+ethical hacker,optional,ICT security legislation
+ethical hacker,optional,organisational resilience
+ethical hacker,optional,John The Ripper (penetration testing tool)
+ethical hacker,optional,service-oriented modelling
+ethical hacker,optional,levels of software testing
+ethical hacker,optional,BlackArch
+ethical hacker,optional,Wireshark
+ethical hacker,optional,information confidentiality
+ethical hacker,optional,Parrot Security OS
+ethical hacker,optional,Open source model
+ethical hacker,optional,Samurai Web Testing Framework
+ethical hacker,optional,ICT encryption
+ethical hacker,optional,WhiteHat Sentinel
+ethical hacker,optional,Nexpose
+ethical hacker,optional,Internet of Things
+ethical hacker,optional,manage IT security compliances
+ethical hacker,optional,implement ICT security policies
+ethical hacker,optional,define security policies
+ethical hacker,optional,set up cybersecurity training programmes
+ethical hacker,optional,remove computer virus or malware from a computer
+ethical hacker,optional,solve ICT system problems
+ethical hacker,optional,perform project management
+ethical hacker,optional,manage cloud data and storage
+ethical hacker,optional,implement a firewall
+ethical hacker,optional,maintain ICT server
+cybersecurity risk manager,essential,ICT safety
+cybersecurity risk manager,essential,internal risk management policy
+cybersecurity risk manager,essential,ethical hacking principles
+cybersecurity risk manager,essential,information security strategy
+cybersecurity risk manager,essential,ICT network security risks
+cybersecurity risk manager,essential,ICT security standards
+cybersecurity risk manager,essential,attack vectors
+cybersecurity risk manager,essential,cyber attack counter-measures
+cybersecurity risk manager,essential,security threats
+cybersecurity risk manager,essential,risk management
+cybersecurity risk manager,essential,security engineering
+cybersecurity risk manager,essential,assessment of risks and threats
+cybersecurity risk manager,essential,cyber security
+cybersecurity risk manager,essential,ICT performance analysis methods
+cybersecurity risk manager,essential,establish an ICT security prevention plan
+cybersecurity risk manager,essential,manage system security
+cybersecurity risk manager,essential,communicate with stakeholders
+cybersecurity risk manager,essential,establish an Information Security Management System
+cybersecurity risk manager,essential,implement ICT risk management
+cybersecurity risk manager,essential,engage with stakeholders
+cybersecurity risk manager,essential,ensure adherence to organisational ICT standards
+cybersecurity risk manager,essential,advice on security risk management
+cybersecurity risk manager,optional,domain name service
+cybersecurity risk manager,optional,systems development life-cycle
+cybersecurity risk manager,optional,computer forensics
+cybersecurity risk manager,optional,cloud security and compliance
+cybersecurity risk manager,optional,ICT quality policy
+cybersecurity risk manager,optional,decision support systems
+cybersecurity risk manager,optional,internet governance
+cybersecurity risk manager,optional,Outsourcing model
+cybersecurity risk manager,optional,hybrid model
+cybersecurity risk manager,optional,audit techniques
+cybersecurity risk manager,optional,tools for ICT test automation
+cybersecurity risk manager,optional,ICT security legislation
+cybersecurity risk manager,optional,organisational resilience
+cybersecurity risk manager,optional,service-oriented modelling
+cybersecurity risk manager,optional,levels of software testing
+cybersecurity risk manager,optional,cloud monitoring and reporting
+cybersecurity risk manager,optional,web application security threats
+cybersecurity risk manager,optional,ICT project management
+cybersecurity risk manager,optional,ICT problem management techniques
+cybersecurity risk manager,optional,information confidentiality
+cybersecurity risk manager,optional,legal requirements of ICT products
+cybersecurity risk manager,optional,Open source model
+cybersecurity risk manager,optional,investment analysis
+cybersecurity risk manager,optional,ICT recovery techniques
+cybersecurity risk manager,optional,ICT system user requirements
+cybersecurity risk manager,optional,mobile device management
+cybersecurity risk manager,optional,ICT encryption
+cybersecurity risk manager,optional,Internet of Things
+cybersecurity risk manager,optional,ICT process quality models
+cybersecurity risk manager,optional,use an application-specific interface
+cybersecurity risk manager,optional,implement ICT security policies
+cybersecurity risk manager,optional,define technology strategy
+cybersecurity risk manager,optional,develop information security strategy
+cybersecurity risk manager,optional,define security policies
+cybersecurity risk manager,optional,use ICT ticketing system
+cybersecurity risk manager,optional,manage disaster recovery plans
+cybersecurity risk manager,optional,develop with cloud services
+cybersecurity risk manager,optional,execute ICT audits
+cybersecurity risk manager,optional,use back-up and recovery tools
+cybersecurity risk manager,optional,remove computer virus or malware from a computer
+cybersecurity risk manager,optional,solve ICT system problems
+cybersecurity risk manager,optional,implement a virtual private network
+cybersecurity risk manager,optional,implement anti-virus software
+cybersecurity risk manager,optional,implement cloud security and compliance
+cybersecurity risk manager,optional,implement spam protection
+cybersecurity risk manager,optional,lead disaster recovery exercises
+cybersecurity risk manager,optional,design for organisational complexity
+cybersecurity risk manager,optional,implement a firewall
+cybersecurity risk manager,optional,manage keys for data protection
+cybersecurity risk manager,optional,identify ICT security risks
+ICT network administrator,essential,network management system tools
+ICT network administrator,essential,ICT network routing
+ICT network administrator,essential,solution deployment
+ICT network administrator,essential,computer programming
+ICT network administrator,essential,ICT network security risks
+ICT network administrator,essential,procurement of ICT network equipment
+ICT network administrator,essential,digital systems
+ICT network administrator,essential,internet governance
+ICT network administrator,essential,cyber attack counter-measures
+ICT network administrator,essential,ICT security legislation
+ICT network administrator,essential,ICT system programming
+ICT network administrator,essential,cloud technologies
+ICT network administrator,essential,quality assurance methodologies
+ICT network administrator,essential,network standards
+ICT network administrator,essential,ICT performance analysis methods
+ICT network administrator,essential,define firewall rules
+ICT network administrator,essential,implement ICT security policies
+ICT network administrator,essential,design computer network
+ICT network administrator,essential,use back-up and recovery tools
+ICT network administrator,essential,interpret technical texts
+ICT network administrator,essential,install electronic communication equipment
+ICT network administrator,essential,forecast future ICT network needs
+ICT network administrator,essential,apply ICT system usage policies
+ICT network administrator,essential,implement a virtual private network
+ICT network administrator,essential,manage ICT virtualisation environments
+ICT network administrator,essential,adjust ICT system capacity
+ICT network administrator,essential,maintain internet protocol configuration
+ICT network administrator,essential,implement anti-virus software
+ICT network administrator,essential,implement ICT network diagnostic tools
+ICT network administrator,essential,perform backups
+ICT network administrator,essential,analyse network bandwidth requirements
+ICT network administrator,essential,implement a firewall
+ICT network administrator,essential,integrate system components
+ICT network administrator,essential,manage email hosting service
+ICT network administrator,optional,Haskell
+ICT network administrator,optional,network engineering
+ICT network administrator,optional,Erlang
+ICT network administrator,optional,SAS language
+ICT network administrator,optional,Ruby (computer programming)
+ICT network administrator,optional,Common Lisp
+ICT network administrator,optional,Lisp
+ICT network administrator,optional,Apache Tomcat
+ICT network administrator,optional,Visual Basic
+ICT network administrator,optional,Java (computer programming)
+ICT network administrator,optional,Prolog (computer programming)
+ICT network administrator,optional,OpenEdge Advanced Business Language
+ICT network administrator,optional,organisational policies
+ICT network administrator,optional,JavaScript
+ICT network administrator,optional,Perl
+ICT network administrator,optional,Smalltalk (computer programming)
+ICT network administrator,optional,PHP
+ICT network administrator,optional,Assembly (computer programming)
+ICT network administrator,optional,C#
+ICT network administrator,optional,R
+ICT network administrator,optional,Groovy
+ICT network administrator,optional,proxy servers
+ICT network administrator,optional,ASP.NET
+ICT network administrator,optional,APL
+ICT network administrator,optional,security engineering
+ICT network administrator,optional,Cisco
+ICT network administrator,optional,Microsoft Visual C++
+ICT network administrator,optional,TypeScript
+ICT network administrator,optional,mobile operating systems
+ICT network administrator,optional,CoffeeScript
+ICT network administrator,optional,Objective-C
+ICT network administrator,optional,ML (computer programming)
+ICT network administrator,optional,AJAX
+ICT network administrator,optional,C++
+ICT network administrator,optional,BlackBerry
+ICT network administrator,optional,SAP R3
+ICT network administrator,optional,Swift (computer programming)
+ICT network administrator,optional,MATLAB
+ICT network administrator,optional,ICT system user requirements
+ICT network administrator,optional,Python (computer programming)
+ICT network administrator,optional,iOS
+ICT network administrator,optional,Scratch (computer programming)
+ICT network administrator,optional,Android (mobile operating systems)
+ICT network administrator,optional,VBScript
+ICT network administrator,optional,COBOL
+ICT network administrator,optional,Pascal (computer programming)
+ICT network administrator,optional,ABAP
+ICT network administrator,optional,operating systems
+ICT network administrator,optional,Scala
+ICT network administrator,optional,apply system organisational policies
+ICT network administrator,optional,prepare licence agreements
+ICT network administrator,optional,utilise computer-aided software engineering tools
+ICT network administrator,optional,protect personal data and privacy
+ICT network administrator,optional,optimise choice of ICT solution
+ICT network administrator,optional,provide ICT system training
+ICT network administrator,optional,use ICT hardware
+ICT network administrator,optional,execute ICT audits
+ICT network administrator,optional,remove computer virus or malware from a computer
+ICT network administrator,optional,acquire system component
+ICT network administrator,optional,implement spam protection
+ICT network administrator,optional,automate cloud tasks
+ICT network administrator,optional,provide technical training
+ICT network administrator,optional,install signal repeaters
+ICT network administrator,optional,maintain ICT server
+database administrator,essential,information structure
+database administrator,essential,domain name service
+database administrator,essential,system backup best practice
+database administrator,essential,distributed computing
+database administrator,essential,resource description framework query language
+database administrator,essential,query languages
+database administrator,essential,database development tools
+database administrator,essential,data storage
+database administrator,essential,database management systems
+database administrator,essential,data quality assessment
+database administrator,essential,data models
+database administrator,essential,define database physical structure
+database administrator,essential,use an application-specific interface
+database administrator,essential,administer ICT system
+database administrator,essential,apply company policies
+database administrator,essential,manage database
+database administrator,essential,use databases
+database administrator,essential,use scripting programming
+database administrator,essential,design database scheme
+database administrator,essential,operate relational database management system
+database administrator,essential,perform ICT troubleshooting
+database administrator,essential,interpret technical texts
+database administrator,essential,balance database resources
+database administrator,essential,design database backup specifications
+database administrator,essential,perform backups
+database administrator,essential,maintain database performance
+database administrator,essential,maintain database security
+database administrator,essential,create data models
+database administrator,optional,business intelligence
+database administrator,optional,MDX
+database administrator,optional,DB2
+database administrator,optional,Microsoft Access
+database administrator,optional,XQuery
+database administrator,optional,OpenEdge Database
+database administrator,optional,data engineering
+database administrator,optional,ObjectStore
+database administrator,optional,MySQL
+database administrator,optional,TripleStore
+database administrator,optional,SPARQL
+database administrator,optional,IBM Informix
+database administrator,optional,LDAP
+database administrator,optional,PostgreSQL
+database administrator,optional,online analytical processing
+database administrator,optional,Filemaker (database management systems)
+database administrator,optional,SQL Server
+database administrator,optional,quality assurance methodologies
+database administrator,optional,LINQ
+database administrator,optional,Teradata Database
+database administrator,optional,Oracle Relational Database
+database administrator,optional,MarkLogic
+database administrator,optional,N1QL
+database administrator,optional,implement ICT security policies
+database administrator,optional,use spreadsheets software
+database administrator,optional,protect personal data and privacy
+database administrator,optional,use different communication channels
+database administrator,optional,use automatic programming
+database administrator,optional,execute ICT audits
+database administrator,optional,design database in the cloud
+database administrator,optional,use back-up and recovery tools
+database administrator,optional,remove computer virus or malware from a computer
+database administrator,optional,implement anti-virus software
+database administrator,optional,provide ICT support
+database administrator,optional,manage cloud data and storage
+database administrator,optional,provide technical training
+database administrator,optional,support ICT system users
+database administrator,optional,estimate duration of work
+database administrator,optional,implement a firewall
+user interface designer,essential,software UI design patterns
+user interface designer,essential,interactive media
+user interface designer,essential,ICT accessibility standards
+user interface designer,essential,web programming
+user interface designer,essential,task algorithmisation
+user interface designer,essential,ICT security legislation
+user interface designer,essential,World Wide Web Consortium standards
+user interface designer,essential,human-computer interaction
+user interface designer,essential,graphics editor software
+user interface designer,essential,application usability
+user interface designer,essential,software interaction design
+user interface designer,essential,use an application-specific interface
+user interface designer,essential,use markup languages
+user interface designer,essential,design process
+user interface designer,essential,translate requirements into visual design
+user interface designer,essential,assess users' interaction with ICT applications
+user interface designer,essential,use methodologies for user-centered design
+user interface designer,essential,develop creative ideas
+user interface designer,essential,interact with users to gather requirements
+user interface designer,essential,test system accessibility for users with special needs
+user interface designer,essential,manage online content
+user interface designer,essential,define technical requirements
+user interface designer,essential,build business relationships
+user interface designer,essential,design graphics
+user interface designer,essential,create website wireframe
+user interface designer,essential,draw design sketches
+user interface designer,essential,design user interface
+user interface designer,optional,Haskell
+user interface designer,optional,incremental development
+user interface designer,optional,Erlang
+user interface designer,optional,SAS language
+user interface designer,optional,Agile project management
+user interface designer,optional,Ruby (computer programming)
+user interface designer,optional,Common Lisp
+user interface designer,optional,Lisp
+user interface designer,optional,Visual Basic
+user interface designer,optional,Adobe Photoshop
+user interface designer,optional,screen reader
+user interface designer,optional,Java (computer programming)
+user interface designer,optional,computer programming
+user interface designer,optional,cognitive psychology
+user interface designer,optional,Adobe Illustrator
+user interface designer,optional,Prolog (computer programming)
+user interface designer,optional,OpenEdge Advanced Business Language
+user interface designer,optional,iterative development
+user interface designer,optional,JavaScript
+user interface designer,optional,Perl
+user interface designer,optional,Smalltalk (computer programming)
+user interface designer,optional,PHP
+user interface designer,optional,Assembly (computer programming)
+user interface designer,optional,Spiral development
+user interface designer,optional,GIMP (graphics editor software)
+user interface designer,optional,C#
+user interface designer,optional,R
+user interface designer,optional,Groovy
+user interface designer,optional,ASP.NET
+user interface designer,optional,APL
+user interface designer,optional,Waterfall development
+user interface designer,optional,SketchBook Pro
+user interface designer,optional,TypeScript
+user interface designer,optional,Microsoft Visio
+user interface designer,optional,quality standards
+user interface designer,optional,software design methodologies
+user interface designer,optional,web based collaborative platforms
+user interface designer,optional,Rapid application development
+user interface designer,optional,business process modelling
+user interface designer,optional,CoffeeScript
+user interface designer,optional,Objective-C
+user interface designer,optional,ML (computer programming)
+user interface designer,optional,augmented reality
+user interface designer,optional,Synfig
+user interface designer,optional,AJAX
+user interface designer,optional,C++
+user interface designer,optional,SAP R3
+user interface designer,optional,Swift (computer programming)
+user interface designer,optional,ICT project management methodologies
+user interface designer,optional,MATLAB
+user interface designer,optional,Python (computer programming)
+user interface designer,optional,Scratch (computer programming)
+user interface designer,optional,Process-based management
+user interface designer,optional,lean project management
+user interface designer,optional,Agile development
+user interface designer,optional,VBScript
+user interface designer,optional,COBOL
+user interface designer,optional,Pascal (computer programming)
+user interface designer,optional,ABAP
+user interface designer,optional,Prototyping development
+user interface designer,optional,DevOps
+user interface designer,optional,Scala
+user interface designer,optional,natural language processing
+user interface designer,optional,perform online data analysis
+user interface designer,optional,create software design
+user interface designer,optional,use query languages
+user interface designer,optional,manage localisation
+user interface designer,optional,analyse business requirements
+ICT system administrator,essential,domain name service
+ICT system administrator,essential,digital systems
+ICT system administrator,essential,organisational policies
+ICT system administrator,essential,software components libraries
+ICT system administrator,essential,hardware components
+ICT system administrator,essential,security engineering
+ICT system administrator,essential,ICT system programming
+ICT system administrator,essential,quality assurance methodologies
+ICT system administrator,essential,ICT system user requirements
+ICT system administrator,essential,ICT infrastructure
+ICT system administrator,essential,network standards
+ICT system administrator,essential,operating systems
+ICT system administrator,essential,migrate existing data
+ICT system administrator,essential,apply system organisational policies
+ICT system administrator,essential,administer ICT system
+ICT system administrator,essential,implement ICT security policies
+ICT system administrator,essential,manage changes in ICT system
+ICT system administrator,essential,manage system security
+ICT system administrator,essential,use back-up and recovery tools
+ICT system administrator,essential,interpret technical texts
+ICT system administrator,essential,monitor system performance
+ICT system administrator,essential,apply ICT system usage policies
+ICT system administrator,essential,solve ICT system problems
+ICT system administrator,essential,implement a virtual private network
+ICT system administrator,essential,implement anti-virus software
+ICT system administrator,essential,manage system testing
+ICT system administrator,essential,perform backups
+ICT system administrator,essential,support ICT system users
+ICT system administrator,essential,implement a firewall
+ICT system administrator,essential,integrate system components
+ICT system administrator,essential,maintain ICT system
+ICT system administrator,essential,implement ICT recovery system
+ICT system administrator,optional,network engineering
+ICT system administrator,optional,systems development life-cycle
+ICT system administrator,optional,Apache Tomcat
+ICT system administrator,optional,information security strategy
+ICT system administrator,optional,cloud security and compliance
+ICT system administrator,optional,interfacing techniques
+ICT system administrator,optional,ICT accessibility standards
+ICT system administrator,optional,internet governance
+ICT system administrator,optional,ICT system integration
+ICT system administrator,optional,engineering processes
+ICT system administrator,optional,cloud monitoring and reporting
+ICT system administrator,optional,IBM WebSphere
+ICT system administrator,optional,cloud technologies
+ICT system administrator,optional,ICT recovery techniques
+ICT system administrator,optional,system design
+ICT system administrator,optional,use different communication channels
+ICT system administrator,optional,provide ICT system training
+ICT system administrator,optional,store digital data and systems
+ICT system administrator,optional,implement ICT risk management
+ICT system administrator,optional,remove computer virus or malware from a computer
+ICT system administrator,optional,acquire system component
+ICT system administrator,optional,interact with users to gather requirements
+ICT system administrator,optional,adjust ICT system capacity
+ICT system administrator,optional,implement spam protection
+ICT system administrator,optional,automate cloud tasks
+ICT system administrator,optional,manage cloud data and storage
+ICT system administrator,optional,execute integration testing
+ICT system administrator,optional,install signal repeaters
+ICT security technician,essential,systems development life-cycle
+ICT security technician,essential,procurement of ICT network equipment
+ICT security technician,essential,ICT security standards
+ICT security technician,essential,attack vectors
+ICT security technician,essential,cyber attack counter-measures
+ICT security technician,essential,audit techniques
+ICT security technician,essential,security engineering
+ICT security technician,essential,tools for ICT test automation
+ICT security technician,essential,cyber security
+ICT security technician,essential,levels of software testing
+ICT security technician,essential,web application security threats
+ICT security technician,essential,ICT system programming
+ICT security technician,essential,penetration testing tool
+ICT security technician,essential,operating systems
+ICT security technician,essential,ICT networking hardware
+ICT security technician,essential,establish an ICT security prevention plan
+ICT security technician,essential,manage alarm system
+ICT security technician,essential,manage system security
+ICT security technician,essential,communicate with stakeholders
+ICT security technician,essential,set up cybersecurity training programmes
+ICT security technician,essential,use access control software
+ICT security technician,essential,implement ICT risk management
+ICT security technician,essential,analyse ICT system
+ICT security technician,essential,execute software tests
+ICT security technician,essential,engage with stakeholders
+ICT security technician,essential,solve ICT system problems
+ICT security technician,essential,manage closed-circuit television system
+ICT security technician,essential,address problems critically
+ICT security technician,essential,ensure proper document management
+ICT security technician,essential,identify ICT system weaknesses
+ICT security technician,essential,protect ICT devices
+ICT security technician,essential,estimate duration of work
+ICT security technician,essential,integrate system components
+ICT security technician,essential,identify ICT security risks
+ICT security technician,optional,ICT safety
+ICT security technician,optional,Haskell
+ICT security technician,optional,Erlang
+ICT security technician,optional,SAS language
+ICT security technician,optional,Ruby (computer programming)
+ICT security technician,optional,Common Lisp
+ICT security technician,optional,Lisp
+ICT security technician,optional,Visual Basic
+ICT security technician,optional,Java (computer programming)
+ICT security technician,optional,cloud security and compliance
+ICT security technician,optional,computer programming
+ICT security technician,optional,Prolog (computer programming)
+ICT security technician,optional,ICT network security risks
+ICT security technician,optional,OpenEdge Advanced Business Language
+ICT security technician,optional,JavaScript
+ICT security technician,optional,Perl
+ICT security technician,optional,Smalltalk (computer programming)
+ICT security technician,optional,PHP
+ICT security technician,optional,Assembly (computer programming)
+ICT security technician,optional,C#
+ICT security technician,optional,R
+ICT security technician,optional,Groovy
+ICT security technician,optional,ASP.NET
+ICT security technician,optional,APL
+ICT security technician,optional,Cisco
+ICT security technician,optional,ICT security legislation
+ICT security technician,optional,organisational resilience
+ICT security technician,optional,Microsoft Visual C++
+ICT security technician,optional,TypeScript
+ICT security technician,optional,cloud monitoring and reporting
+ICT security technician,optional,CoffeeScript
+ICT security technician,optional,Objective-C
+ICT security technician,optional,ML (computer programming)
+ICT security technician,optional,AJAX
+ICT security technician,optional,C++
+ICT security technician,optional,SAP R3
+ICT security technician,optional,Swift (computer programming)
+ICT security technician,optional,MATLAB
+ICT security technician,optional,Python (computer programming)
+ICT security technician,optional,ICT encryption
+ICT security technician,optional,Scratch (computer programming)
+ICT security technician,optional,VBScript
+ICT security technician,optional,COBOL
+ICT security technician,optional,Pascal (computer programming)
+ICT security technician,optional,ABAP
+ICT security technician,optional,Internet of Things
+ICT security technician,optional,Scala
+ICT security technician,optional,manage IT security compliances
+ICT security technician,optional,cooperate with colleagues
+ICT security technician,optional,implement ICT security policies
+ICT security technician,optional,comply with legal regulations
+ICT security technician,optional,execute ICT audits
+ICT security technician,optional,use back-up and recovery tools
+ICT security technician,optional,remove computer virus or malware from a computer
+ICT security technician,optional,implement a virtual private network
+ICT security technician,optional,implement anti-virus software
+ICT security technician,optional,implement cloud security and compliance
+ICT security technician,optional,manage cloud data and storage
+ICT security technician,optional,implement a firewall
+ICT security technician,optional,manage keys for data protection
+ICT security technician,optional,install low voltage wiring
+ICT system analyst,essential,systems development life-cycle
+ICT system analyst,essential,software architecture models
+ICT system analyst,essential,digital systems
+ICT system analyst,essential,decision support systems
+ICT system analyst,essential,attack vectors
+ICT system analyst,essential,levels of software testing
+ICT system analyst,essential,online analytical processing
+ICT system analyst,essential,ICT infrastructure
+ICT system analyst,essential,ICT performance analysis methods
+ICT system analyst,essential,software metrics
+ICT system analyst,essential,use an application-specific interface
+ICT system analyst,essential,identify customer requirements
+ICT system analyst,essential,apply statistical analysis techniques
+ICT system analyst,essential,analyse business processes
+ICT system analyst,essential,analyse ICT system
+ICT system analyst,essential,manage ICT legacy implication
+ICT system analyst,essential,monitor system performance
+ICT system analyst,essential,analyse the context of an organisation
+ICT system analyst,essential,solve ICT system problems
+ICT system analyst,essential,design information system
+ICT system analyst,essential,interact with users to gather requirements
+ICT system analyst,essential,manage system testing
+ICT system analyst,essential,execute feasibility study
+ICT system analyst,essential,define technical requirements
+ICT system analyst,essential,identify ICT system weaknesses
+ICT system analyst,essential,analyse software specifications
+ICT system analyst,essential,perform ICT security testing
+ICT system analyst,essential,create data models
+ICT system analyst,optional,Haskell
+ICT system analyst,optional,Erlang
+ICT system analyst,optional,SAS language
+ICT system analyst,optional,Ruby (computer programming)
+ICT system analyst,optional,Common Lisp
+ICT system analyst,optional,Lisp
+ICT system analyst,optional,Apache Tomcat
+ICT system analyst,optional,hardware platforms
+ICT system analyst,optional,Visual Basic
+ICT system analyst,optional,Java (computer programming)
+ICT system analyst,optional,MDX
+ICT system analyst,optional,computer programming
+ICT system analyst,optional,data mining
+ICT system analyst,optional,Prolog (computer programming)
+ICT system analyst,optional,OpenEdge Advanced Business Language
+ICT system analyst,optional,JavaScript
+ICT system analyst,optional,XQuery
+ICT system analyst,optional,Perl
+ICT system analyst,optional,Smalltalk (computer programming)
+ICT system analyst,optional,PHP
+ICT system analyst,optional,Assembly (computer programming)
+ICT system analyst,optional,C#
+ICT system analyst,optional,R
+ICT system analyst,optional,Groovy
+ICT system analyst,optional,ASP.NET
+ICT system analyst,optional,APL
+ICT system analyst,optional,object-oriented modelling
+ICT system analyst,optional,SPARQL
+ICT system analyst,optional,Outsourcing model
+ICT system analyst,optional,hybrid model
+ICT system analyst,optional,audit techniques
+ICT system analyst,optional,unified modelling language
+ICT system analyst,optional,NoSQL
+ICT system analyst,optional,service-oriented modelling
+ICT system analyst,optional,Microsoft Visual C++
+ICT system analyst,optional,core banking software
+ICT system analyst,optional,TypeScript
+ICT system analyst,optional,distributed computing
+ICT system analyst,optional,resource description framework query language
+ICT system analyst,optional,CoffeeScript
+ICT system analyst,optional,Objective-C
+ICT system analyst,optional,query languages
+ICT system analyst,optional,ML (computer programming)
+ICT system analyst,optional,LDAP
+ICT system analyst,optional,Open source model
+ICT system analyst,optional,AJAX
+ICT system analyst,optional,C++
+ICT system analyst,optional,SAP R3
+ICT system analyst,optional,Swift (computer programming)
+ICT system analyst,optional,MATLAB
+ICT system analyst,optional,LINQ
+ICT system analyst,optional,Python (computer programming)
+ICT system analyst,optional,Scratch (computer programming)
+ICT system analyst,optional,VBScript
+ICT system analyst,optional,COBOL
+ICT system analyst,optional,hardware architectures
+ICT system analyst,optional,Pascal (computer programming)
+ICT system analyst,optional,ABAP
+ICT system analyst,optional,N1QL
+ICT system analyst,optional,system design
+ICT system analyst,optional,ICT process quality models
+ICT system analyst,optional,Scala
+ICT system analyst,optional,provide ICT consulting advice
+ICT system analyst,optional,execute analytical mathematical calculations
+ICT system analyst,optional,use query languages
+ICT system analyst,optional,conduct quantitative research
+ICT system analyst,optional,implement a virtual private network
+ICT system analyst,optional,automate cloud tasks
+ICT system analyst,optional,implement a firewall
+ICT help desk agent,essential,characteristics of products
+ICT help desk agent,essential,ICT system user requirements
+ICT help desk agent,essential,product comprehension
+ICT help desk agent,essential,characteristics of services
+ICT help desk agent,essential,guarantee customer satisfaction
+ICT help desk agent,essential,keep up to date on product knowledge
+ICT help desk agent,essential,create solutions to problems
+ICT help desk agent,essential,communicate with customers
+ICT help desk agent,essential,manage schedule of tasks
+ICT help desk agent,essential,keep task records
+ICT help desk agent,essential,assist customers
+ICT help desk agent,essential,use ICT ticketing system
+ICT help desk agent,essential,use ICT hardware
+ICT help desk agent,essential,identify customer's needs
+ICT help desk agent,essential,use customer relationship management software
+ICT help desk agent,essential,solve ICT system problems
+ICT help desk agent,essential,provide ICT support
+ICT help desk agent,essential,support ICT system users
+ICT help desk agent,essential,provide customer follow-up services
+ICT help desk agent,essential,prioritise requests
+ICT help desk agent,optional,knowledge base
+ICT help desk agent,optional,ICT help platforms
+ICT help desk agent,optional,information confidentiality
+ICT help desk agent,optional,ICT infrastructure
+ICT help desk agent,optional,handle helpdesk problems
+ICT help desk agent,optional,use e-services
+ICT help desk agent,optional,perform data analysis
+ICT help desk agent,optional,answer incoming calls
+ICT help desk agent,optional,educate on data confidentiality
+ICT help desk agent,optional,perform escalation procedure
+ICT help desk agent,optional,implement a virtual private network
+ICT help desk agent,optional,implement anti-virus software
+database developer,essential,resource description framework query language
+database developer,essential,query languages
+database developer,essential,"data extraction, transformation and loading tools"
+database developer,essential,database development tools
+database developer,essential,data storage
+database developer,essential,database management systems
+database developer,essential,data quality assessment
+database developer,essential,use an application-specific interface
+database developer,essential,identify customer requirements
+database developer,essential,use databases
+database developer,essential,write database documentation
+database developer,essential,collect customer feedback on applications
+database developer,essential,interpret technical texts
+database developer,essential,apply information security policies
+database developer,essential,balance database resources
+database developer,essential,report analysis results
+database developer,essential,perform backups
+database developer,essential,estimate duration of work
+database developer,essential,test ICT queries
+database developer,essential,create data models
+database developer,optional,Haskell
+database developer,optional,Erlang
+database developer,optional,SAS language
+database developer,optional,Ruby (computer programming)
+database developer,optional,Common Lisp
+database developer,optional,Lisp
+database developer,optional,Informatica PowerCenter
+database developer,optional,Visual Basic
+database developer,optional,IBM InfoSphere DataStage
+database developer,optional,Java (computer programming)
+database developer,optional,MDX
+database developer,optional,computer programming
+database developer,optional,Oracle Warehouse Builder
+database developer,optional,Prolog (computer programming)
+database developer,optional,OpenEdge Advanced Business Language
+database developer,optional,Oracle Data Integrator
+database developer,optional,JavaScript
+database developer,optional,DB2
+database developer,optional,Microsoft Access
+database developer,optional,XQuery
+database developer,optional,Perl
+database developer,optional,Pentaho Data Integration
+database developer,optional,Smalltalk (computer programming)
+database developer,optional,PHP
+database developer,optional,OpenEdge Database
+database developer,optional,Assembly (computer programming)
+database developer,optional,data engineering
+database developer,optional,ObjectStore
+database developer,optional,C#
+database developer,optional,MySQL
+database developer,optional,TripleStore
+database developer,optional,R
+database developer,optional,Groovy
+database developer,optional,ASP.NET
+database developer,optional,APL
+database developer,optional,SQL
+database developer,optional,SPARQL
+database developer,optional,WordPress
+database developer,optional,SQL Server Integration Services
+database developer,optional,IBM InfoSphere Information Server
+database developer,optional,Microsoft Visual C++
+database developer,optional,IBM Informix
+database developer,optional,TypeScript
+database developer,optional,Oracle Application Development Framework
+database developer,optional,Ajax Framework
+database developer,optional,QlikView Expressor
+database developer,optional,CoffeeScript
+database developer,optional,Objective-C
+database developer,optional,JavaScript Framework
+database developer,optional,ML (computer programming)
+database developer,optional,LDAP
+database developer,optional,PostgreSQL
+database developer,optional,AJAX
+database developer,optional,C++
+database developer,optional,Filemaker (database management systems)
+database developer,optional,SAP R3
+database developer,optional,Swift (computer programming)
+database developer,optional,SQL Server
+database developer,optional,MATLAB
+database developer,optional,CA Datacom/DB
+database developer,optional,LINQ
+database developer,optional,Python (computer programming)
+database developer,optional,ICT infrastructure
+database developer,optional,Scratch (computer programming)
+database developer,optional,Teradata Database
+database developer,optional,VBScript
+database developer,optional,Oracle Relational Database
+database developer,optional,COBOL
+database developer,optional,hardware architectures
+database developer,optional,SAS Data Management
+database developer,optional,MarkLogic
+database developer,optional,Pascal (computer programming)
+database developer,optional,ABAP
+database developer,optional,N1QL
+database developer,optional,ICT power consumption
+database developer,optional,SAP Data Services
+database developer,optional,Scala
+database developer,optional,create solutions to problems
+database developer,optional,use spreadsheets software
+database developer,optional,use software design patterns
+database developer,optional,execute analytical mathematical calculations
+database developer,optional,manage business knowledge
+database developer,optional,perform data mining
+database developer,optional,store digital data and systems
+database developer,optional,use query languages
+database developer,optional,execute ICT audits
+database developer,optional,use back-up and recovery tools
+database developer,optional,execute software tests
+database developer,optional,manage digital documents
+database developer,optional,address problems critically
+database developer,optional,manage cloud data and storage
+database developer,optional,execute integration testing
+database developer,optional,integrate system components
+database developer,optional,verify formal ICT specifications
+database developer,optional,use personal organization software
+database developer,optional,identify ICT security risks
+web developer,essential,domain name service
+web developer,essential,computer programming
+web developer,essential,ICT debugging tools
+web developer,essential,web programming
+web developer,essential,World Wide Web Consortium standards
+web developer,essential,integrated development environment software
+web developer,essential,web based collaborative platforms
+web developer,essential,tools for software configuration management
+web developer,essential,style sheet languages
+web developer,essential,Joomla
+web developer,essential,content development processes
+web developer,essential,web services
+web developer,essential,use an application-specific interface
+web developer,essential,use markup languages
+web developer,essential,use e-services
+web developer,essential,debug software
+web developer,essential,use software design patterns
+web developer,essential,translate requirements into visual design
+web developer,essential,develop digital content
+web developer,essential,collect customer feedback on applications
+web developer,essential,develop software prototype
+web developer,essential,interpret technical texts
+web developer,essential,use software libraries
+web developer,essential,create flowchart diagram
+web developer,essential,implement front-end website design
+web developer,essential,analyse software specifications
+web developer,optional,Haskell
+web developer,optional,KDevelop
+web developer,optional,Erlang
+web developer,optional,SAS language
+web developer,optional,Ruby (computer programming)
+web developer,optional,Common Lisp
+web developer,optional,Apache Maven
+web developer,optional,Lisp
+web developer,optional,Sass
+web developer,optional,Visual Basic
+web developer,optional,Java (computer programming)
+web developer,optional,LESS
+web developer,optional,Prolog (computer programming)
+web developer,optional,OpenEdge Advanced Business Language
+web developer,optional,JavaScript
+web developer,optional,Perl
+web developer,optional,Smalltalk (computer programming)
+web developer,optional,PHP
+web developer,optional,software anomalies
+web developer,optional,Xcode
+web developer,optional,Assembly (computer programming)
+web developer,optional,C#
+web developer,optional,R
+web developer,optional,Groovy
+web developer,optional,ASP.NET
+web developer,optional,APL
+web developer,optional,object-oriented modelling
+web developer,optional,WebCMS
+web developer,optional,Puppet (tools for software configuration management)
+web developer,optional,STAF
+web developer,optional,Eclipse (integrated development environment software)
+web developer,optional,WordPress
+web developer,optional,Ansible
+web developer,optional,ICT security legislation
+web developer,optional,Microsoft Visual C++
+web developer,optional,TypeScript
+web developer,optional,JSSS
+web developer,optional,web application security threats
+web developer,optional,CoffeeScript
+web developer,optional,Objective-C
+web developer,optional,JavaScript Framework
+web developer,optional,ML (computer programming)
+web developer,optional,IBM WebSphere
+web developer,optional,augmented reality
+web developer,optional,SPARK
+web developer,optional,WildFly
+web developer,optional,AJAX
+web developer,optional,C++
+web developer,optional,SAP R3
+web developer,optional,Swift (computer programming)
+web developer,optional,MATLAB
+web developer,optional,Salt (tools for software configuration management)
+web developer,optional,Python (computer programming)
+web developer,optional,Scratch (computer programming)
+web developer,optional,VBScript
+web developer,optional,COBOL
+web developer,optional,CSS
+web developer,optional,Pascal (computer programming)
+web developer,optional,ABAP
+web developer,optional,Jenkins (tools for software configuration management)
+web developer,optional,Scala
+web developer,optional,migrate existing data
+web developer,optional,utilise computer-aided software engineering tools
+web developer,optional,use presentation software
+web developer,optional,use concurrent programming
+web developer,optional,conduct content quality assurance
+web developer,optional,use logic programming
+web developer,optional,use object-oriented programming
+web developer,optional,use query languages
+web developer,optional,use automatic programming
+web developer,optional,use word processing software
+web developer,optional,develop creative ideas
+web developer,optional,implement anti-virus software
+web developer,optional,use functional programming
+web developer,optional,compose description for web elements
+web developer,optional,adapt to changes in technological development plans
+web developer,optional,design user interface
+cloud DevOps engineer,essential,cloud security and compliance
+cloud DevOps engineer,essential,software frameworks
+cloud DevOps engineer,essential,JavaScript
+cloud DevOps engineer,essential,system backup best practice
+cloud DevOps engineer,essential,computer engineering
+cloud DevOps engineer,essential,cloud monitoring and reporting
+cloud DevOps engineer,essential,integrated development environment software
+cloud DevOps engineer,essential,ICT system programming
+cloud DevOps engineer,essential,cloud technologies
+cloud DevOps engineer,essential,DevOps
+cloud DevOps engineer,essential,Jenkins (tools for software configuration management)
+cloud DevOps engineer,essential,plan migration to cloud
+cloud DevOps engineer,essential,design cloud architecture
+cloud DevOps engineer,essential,do cloud refactoring
+cloud DevOps engineer,essential,design cloud networks
+cloud DevOps engineer,essential,deploy cloud resource
+cloud DevOps engineer,essential,manage disaster recovery plans
+cloud DevOps engineer,essential,develop with cloud services
+cloud DevOps engineer,essential,design database in the cloud
+cloud DevOps engineer,essential,implement cloud security and compliance
+cloud DevOps engineer,essential,automate cloud tasks
+cloud DevOps engineer,essential,manage cloud data and storage
+cloud DevOps engineer,essential,design for organisational complexity
+cloud DevOps engineer,essential,implement ICT recovery system
+cloud DevOps engineer,optional,KDevelop
+cloud DevOps engineer,optional,ASP.NET
+cloud DevOps engineer,optional,Eclipse (integrated development environment software)
+cloud DevOps engineer,optional,ICT project management methodologies
+cloud DevOps engineer,optional,application usability
+cloud DevOps engineer,optional,Agile development
+ICT network engineer,essential,network engineering
+ICT network engineer,essential,ICT network routing
+ICT network engineer,essential,information security strategy
+ICT network engineer,essential,computer programming
+ICT network engineer,essential,ICT debugging tools
+ICT network engineer,essential,mobile operating systems
+ICT network engineer,essential,cloud technologies
+ICT network engineer,essential,network standards
+ICT network engineer,essential,ICT performance analysis methods
+ICT network engineer,essential,migrate existing data
+ICT network engineer,essential,use an application-specific interface
+ICT network engineer,essential,develop automated migration methods
+ICT network engineer,essential,design computer network
+ICT network engineer,essential,define technology strategy
+ICT network engineer,essential,debug software
+ICT network engineer,essential,use software design patterns
+ICT network engineer,essential,analyse network configuration and performance
+ICT network engineer,essential,collect customer feedback on applications
+ICT network engineer,essential,apply information security policies
+ICT network engineer,essential,forecast future ICT network needs
+ICT network engineer,essential,implement a virtual private network
+ICT network engineer,essential,implement ICT network diagnostic tools
+ICT network engineer,essential,analyse software specifications
+ICT network engineer,optional,Haskell
+ICT network engineer,optional,KDevelop
+ICT network engineer,optional,Erlang
+ICT network engineer,optional,SAS language
+ICT network engineer,optional,network management system tools
+ICT network engineer,optional,Ruby (computer programming)
+ICT network engineer,optional,Common Lisp
+ICT network engineer,optional,Apache Maven
+ICT network engineer,optional,Lisp
+ICT network engineer,optional,Visual Basic
+ICT network engineer,optional,Java (computer programming)
+ICT network engineer,optional,Prolog (computer programming)
+ICT network engineer,optional,OpenEdge Advanced Business Language
+ICT network engineer,optional,JavaScript
+ICT network engineer,optional,Smalltalk (computer programming)
+ICT network engineer,optional,PHP
+ICT network engineer,optional,Xcode
+ICT network engineer,optional,Assembly (computer programming)
+ICT network engineer,optional,C#
+ICT network engineer,optional,R
+ICT network engineer,optional,Groovy
+ICT network engineer,optional,ASP.NET
+ICT network engineer,optional,APL
+ICT network engineer,optional,Puppet (tools for software configuration management)
+ICT network engineer,optional,STAF
+ICT network engineer,optional,Vagrant
+ICT network engineer,optional,Eclipse (integrated development environment software)
+ICT network engineer,optional,Ansible
+ICT network engineer,optional,Microsoft Visual C++
+ICT network engineer,optional,TypeScript
+ICT network engineer,optional,integrated development environment software
+ICT network engineer,optional,CoffeeScript
+ICT network engineer,optional,Objective-C
+ICT network engineer,optional,tools for software configuration management
+ICT network engineer,optional,ICT problem management techniques
+ICT network engineer,optional,ML (computer programming)
+ICT network engineer,optional,AJAX
+ICT network engineer,optional,C++
+ICT network engineer,optional,BlackBerry
+ICT network engineer,optional,SAP R3
+ICT network engineer,optional,Swift (computer programming)
+ICT network engineer,optional,MATLAB
+ICT network engineer,optional,Salt (tools for software configuration management)
+ICT network engineer,optional,Python (computer programming)
+ICT network engineer,optional,iOS
+ICT network engineer,optional,Scratch (computer programming)
+ICT network engineer,optional,Android (mobile operating systems)
+ICT network engineer,optional,VBScript
+ICT network engineer,optional,COBOL
+ICT network engineer,optional,Pascal (computer programming)
+ICT network engineer,optional,ABAP
+ICT network engineer,optional,Internet of Things
+ICT network engineer,optional,Jenkins (tools for software configuration management)
+ICT network engineer,optional,Scala
+ICT network engineer,optional,create solutions to problems
+ICT network engineer,optional,implement ICT security policies
+ICT network engineer,optional,use concurrent programming
+ICT network engineer,optional,use logic programming
+ICT network engineer,optional,design cloud networks
+ICT network engineer,optional,use object-oriented programming
+ICT network engineer,optional,develop with cloud services
+ICT network engineer,optional,develop software prototype
+ICT network engineer,optional,use automatic programming
+ICT network engineer,optional,use back-up and recovery tools
+ICT network engineer,optional,remove computer virus or malware from a computer
+ICT network engineer,optional,install electronic communication equipment
+ICT network engineer,optional,develop creative ideas
+ICT network engineer,optional,create flowchart diagram
+ICT network engineer,optional,implement anti-virus software
+ICT network engineer,optional,implement spam protection
+ICT network engineer,optional,automate cloud tasks
+ICT network engineer,optional,use functional programming
+ICT network engineer,optional,design for organisational complexity
+ICT network engineer,optional,implement a firewall
+ICT network engineer,optional,adapt to changes in technological development plans
+data analyst,essential,digital data processing
+data analyst,essential,information structure
+data analyst,essential,business intelligence
+data analyst,essential,data mining
+data analyst,essential,documentation types
+data analyst,essential,visual presentation techniques
+data analyst,essential,data engineering
+data analyst,essential,data visualisation software
+data analyst,essential,information extraction
+data analyst,essential,statistics
+data analyst,essential,information categorisation
+data analyst,essential,business analytics
+data analyst,essential,resource description framework query language
+data analyst,essential,query languages
+data analyst,essential,information confidentiality
+data analyst,essential,unstructured data
+data analyst,essential,data quality assessment
+data analyst,essential,data ethics
+data analyst,essential,data science
+data analyst,essential,data models
+data analyst,essential,normalise data
+data analyst,essential,use data processing techniques
+data analyst,essential,interpret current data
+data analyst,essential,establish data processes
+data analyst,essential,execute analytical mathematical calculations
+data analyst,essential,apply statistical analysis techniques
+data analyst,essential,perform data mining
+data analyst,essential,use databases
+data analyst,essential,integrate ICT data
+data analyst,essential,analyse big data
+data analyst,essential,handle data samples
+data analyst,essential,perform data cleansing
+data analyst,essential,define data quality criteria
+data analyst,essential,implement data quality processes
+data analyst,essential,collect ICT data
+data analyst,essential,manage data
+data analyst,optional,marketing analytics
+data analyst,optional,web analytics
+data analyst,optional,MDX
+data analyst,optional,information architecture
+data analyst,optional,social network analysis
+data analyst,optional,XQuery
+data analyst,optional,database
+data analyst,optional,image recognition
+data analyst,optional,SPARQL
+data analyst,optional,statistical modeling techniques
+data analyst,optional,research design
+data analyst,optional,game theory
+data analyst,optional,multidisciplinary research
+data analyst,optional,healthcare analytics
+data analyst,optional,LDAP
+data analyst,optional,data storage
+data analyst,optional,online analytical processing
+data analyst,optional,cloud technologies
+data analyst,optional,LINQ
+data analyst,optional,Hadoop
+data analyst,optional,N1QL
+data analyst,optional,gather data for forensic purposes
+data analyst,optional,use spreadsheets software
+data analyst,optional,manage quantitative data
+data analyst,optional,store digital data and systems
+data analyst,optional,manage data collection systems
+data analyst,optional,make data-driven decisions
+data analyst,optional,deliver visual presentation of data
+data analyst,optional,report analysis results
+data analyst,optional,manage cloud data and storage
+data analyst,optional,create data models
+ICT network architect,essential,network engineering
+ICT network architect,essential,ICT network routing
+ICT network architect,essential,ICT network security risks
+ICT network architect,essential,ICT security legislation
+ICT network architect,essential,business process modelling
+ICT network architect,essential,network standards
+ICT network architect,essential,ICT networking hardware
+ICT network architect,essential,system design
+ICT network architect,essential,use an application-specific interface
+ICT network architect,essential,assess ICT knowledge
+ICT network architect,essential,identify suppliers
+ICT network architect,essential,implement ICT security policies
+ICT network architect,essential,maintain information network hardware
+ICT network architect,essential,design computer network
+ICT network architect,essential,design process
+ICT network architect,essential,design ICT hardware placement
+ICT network architect,essential,use back-up and recovery tools
+ICT network architect,essential,develop creative ideas
+ICT network architect,essential,forecast future ICT network needs
+ICT network architect,essential,implement a virtual private network
+ICT network architect,essential,analyse business requirements
+ICT network architect,essential,adjust ICT system capacity
+ICT network architect,essential,maintain internet protocol configuration
+ICT network architect,essential,define ICT network design policies
+ICT network architect,essential,implement ICT network diagnostic tools
+ICT network architect,essential,define technical requirements
+ICT network architect,essential,analyse network bandwidth requirements
+ICT network architect,essential,implement a firewall
+ICT network architect,optional,Agile project management
+ICT network architect,optional,network management system tools
+ICT network architect,optional,procurement of ICT network equipment
+ICT network architect,optional,ICT security standards
+ICT network architect,optional,attack vectors
+ICT network architect,optional,internet governance
+ICT network architect,optional,Cisco
+ICT network architect,optional,organisational resilience
+ICT network architect,optional,legal requirements of ICT products
+ICT network architect,optional,ICT project management methodologies
+ICT network architect,optional,Process-based management
+ICT network architect,optional,lean project management
+ICT network architect,optional,ICT network simulation
+ICT network architect,optional,design cloud architecture
+ICT network architect,optional,manage staff
+ICT network architect,optional,protect personal data and privacy
+ICT network architect,optional,provide cost benefit analysis reports
+ICT network architect,optional,design cloud networks
+ICT network architect,optional,develop with cloud services
+ICT network architect,optional,perform ICT troubleshooting
+ICT network architect,optional,implement spam protection
+ICT network architect,optional,apply technical communication skills
+ICT network architect,optional,automate cloud tasks
+ICT network architect,optional,build business relationships
+ICT network architect,optional,design for organisational complexity
+ICT network architect,optional,monitor communication channels' performance
+ICT network architect,optional,perform resource planning
+ICT system architect,essential,systems development life-cycle
+ICT system architect,essential,hardware platforms
+ICT system architect,essential,digital systems
+ICT system architect,essential,web programming
+ICT system architect,essential,business process modelling
+ICT system architect,essential,database development tools
+ICT system architect,essential,systems theory
+ICT system architect,essential,system design
+ICT system architect,essential,use an application-specific interface
+ICT system architect,essential,use markup languages
+ICT system architect,essential,assess ICT knowledge
+ICT system architect,essential,implement ICT security policies
+ICT system architect,essential,align software with system architectures
+ICT system architect,essential,manage database
+ICT system architect,essential,acquire system component
+ICT system architect,essential,design information system
+ICT system architect,essential,analyse business requirements
+ICT system architect,essential,apply ICT systems theory
+ICT system architect,essential,manage system testing
+ICT system architect,essential,define technical requirements
+ICT system architect,essential,integrate system components
+ICT system architect,essential,design enterprise architecture
+ICT system architect,essential,create data models
+ICT system architect,optional,Haskell
+ICT system architect,optional,Erlang
+ICT system architect,optional,information structure
+ICT system architect,optional,SAS language
+ICT system architect,optional,Agile project management
+ICT system architect,optional,Ruby (computer programming)
+ICT system architect,optional,Common Lisp
+ICT system architect,optional,Lisp
+ICT system architect,optional,Visual Basic
+ICT system architect,optional,defence standard procedures
+ICT system architect,optional,Java (computer programming)
+ICT system architect,optional,computer programming
+ICT system architect,optional,model based system engineering
+ICT system architect,optional,Prolog (computer programming)
+ICT system architect,optional,OpenEdge Advanced Business Language
+ICT system architect,optional,JavaScript
+ICT system architect,optional,Perl
+ICT system architect,optional,Smalltalk (computer programming)
+ICT system architect,optional,PHP
+ICT system architect,optional,image recognition
+ICT system architect,optional,Assembly (computer programming)
+ICT system architect,optional,C#
+ICT system architect,optional,R
+ICT system architect,optional,Groovy
+ICT system architect,optional,ASP.NET
+ICT system architect,optional,APL
+ICT system architect,optional,security engineering
+ICT system architect,optional,ICT system integration
+ICT system architect,optional,Oracle WebLogic
+ICT system architect,optional,task algorithmisation
+ICT system architect,optional,ICT security legislation
+ICT system architect,optional,Microsoft Visual C++
+ICT system architect,optional,TypeScript
+ICT system architect,optional,CoffeeScript
+ICT system architect,optional,Objective-C
+ICT system architect,optional,ML (computer programming)
+ICT system architect,optional,ICT system programming
+ICT system architect,optional,AJAX
+ICT system architect,optional,C++
+ICT system architect,optional,SAP R3
+ICT system architect,optional,Swift (computer programming)
+ICT system architect,optional,ICT project management methodologies
+ICT system architect,optional,MATLAB
+ICT system architect,optional,Python (computer programming)
+ICT system architect,optional,Scratch (computer programming)
+ICT system architect,optional,Process-based management
+ICT system architect,optional,lean project management
+ICT system architect,optional,VBScript
+ICT system architect,optional,COBOL
+ICT system architect,optional,Pascal (computer programming)
+ICT system architect,optional,ABAP
+ICT system architect,optional,ICT process quality models
+ICT system architect,optional,Scala
+ICT system architect,optional,plan migration to cloud
+ICT system architect,optional,design cloud architecture
+ICT system architect,optional,design process
+ICT system architect,optional,manage staff
+ICT system architect,optional,provide cost benefit analysis reports
+ICT system architect,optional,use object-oriented programming
+ICT system architect,optional,develop with cloud services
+ICT system architect,optional,design database scheme
+ICT system architect,optional,design database in the cloud
+ICT system architect,optional,solve ICT system problems
+ICT system architect,optional,apply technical communication skills
+ICT system architect,optional,manage standards for data exchange
+ICT system architect,optional,manage cloud data and storage
+ICT system architect,optional,build business relationships
+ICT system architect,optional,design for organisational complexity
+ICT system architect,optional,perform resource planning
+computer scientist,essential,scientific research methodology
+computer scientist,essential,data science
+computer scientist,essential,draft scientific or academic papers and technical documentation
+computer scientist,essential,use an application-specific interface
+computer scientist,essential,manage research data
+computer scientist,essential,conduct literature research
+computer scientist,essential,write research proposals
+computer scientist,essential,interact professionally in research and professional environments
+computer scientist,essential,define technology strategy
+computer scientist,essential,disseminate results to the scientific community
+computer scientist,essential,operate open source software
+computer scientist,essential,speak different languages
+computer scientist,essential,execute analytical mathematical calculations
+computer scientist,essential,apply statistical analysis techniques
+computer scientist,essential,evaluate research activities
+computer scientist,essential,demonstrate disciplinary expertise
+computer scientist,essential,conduct scholarly research
+computer scientist,essential,increase the impact of science on policy and society
+computer scientist,essential,manage findable accessible interoperable and reusable data
+computer scientist,essential,perform scientific research
+computer scientist,essential,manage intellectual property rights
+computer scientist,essential,apply for research funding
+computer scientist,essential,use back-up and recovery tools
+computer scientist,essential,conduct quantitative research
+computer scientist,essential,apply research ethics and scientific integrity principles in research activities
+computer scientist,essential,promote open innovation in research
+computer scientist,essential,conduct research interview
+computer scientist,essential,publish academic research
+computer scientist,essential,promote the transfer of knowledge
+computer scientist,essential,think abstractly
+computer scientist,essential,execute ICT user research activities
+computer scientist,essential,mentor individuals
+computer scientist,essential,apply reverse engineering
+computer scientist,essential,synthesise research publications
+computer scientist,essential,manage personal professional development
+computer scientist,essential,write scientific publications
+computer scientist,essential,develop professional network with researchers and scientists
+computer scientist,essential,integrate gender dimension in research
+computer scientist,essential,perform project management
+computer scientist,essential,manage open publications
+computer scientist,essential,synthesise information
+computer scientist,essential,conduct research across disciplines
+computer scientist,essential,conduct qualitative research
+computer scientist,essential,promote the participation of citizens in scientific and research activities
+computer scientist,essential,communicate with a non-scientific audience
+computer scientist,optional,computer simulation
+computer scientist,optional,Apache Tomcat
+computer scientist,optional,business intelligence
+computer scientist,optional,MDX
+computer scientist,optional,software frameworks
+computer scientist,optional,data mining
+computer scientist,optional,behavioural science
+computer scientist,optional,innovation processes
+computer scientist,optional,documentation types
+computer scientist,optional,XQuery
+computer scientist,optional,emergent technologies
+computer scientist,optional,image recognition
+computer scientist,optional,data engineering
+computer scientist,optional,SQL
+computer scientist,optional,scientific computing
+computer scientist,optional,SPARQL
+computer scientist,optional,information extraction
+computer scientist,optional,operational research
+computer scientist,optional,NoSQL
+computer scientist,optional,mathematical physics
+computer scientist,optional,information categorisation
+computer scientist,optional,resource description framework query language
+computer scientist,optional,JavaScript Framework
+computer scientist,optional,query languages
+computer scientist,optional,LDAP
+computer scientist,optional,digitization
+computer scientist,optional,unstructured data
+computer scientist,optional,LINQ
+computer scientist,optional,cognitive computing
+computer scientist,optional,computational biology
+computer scientist,optional,quantum computing
+computer scientist,optional,N1QL
+computer scientist,optional,create solutions to problems
+computer scientist,optional,use spreadsheets software
+computer scientist,optional,use presentation software
+computer scientist,optional,perform data mining
+computer scientist,optional,develop computer vision system
+computer scientist,optional,teach in academic or vocational contexts
+computer scientist,optional,use query languages
+computer scientist,optional,innovate in ICT
+computer scientist,optional,apply blended learning
+computer scientist,optional,implement anti-virus software
+computer scientist,optional,develop professional network
+computer scientist,optional,report analysis results
+computer scientist,optional,process data
+software developer,essential,engineering principles
+software developer,essential,computer programming
+software developer,essential,technical drawings
+software developer,essential,ICT debugging tools
+software developer,essential,project management
+software developer,essential,engineering processes
+software developer,essential,integrated development environment software
+software developer,essential,tools for software configuration management
+software developer,essential,web services
+software developer,essential,use an application-specific interface
+software developer,essential,develop automated migration methods
+software developer,essential,identify customer requirements
+software developer,essential,utilise computer-aided software engineering tools
+software developer,essential,debug software
+software developer,essential,use software design patterns
+software developer,essential,perform scientific research
+software developer,essential,use technical drawing software
+software developer,essential,manage engineering project
+software developer,essential,develop software prototype
+software developer,essential,use software libraries
+software developer,essential,create flowchart diagram
+software developer,essential,interpret technical requirements
+software developer,essential,define technical requirements
+software developer,essential,analyse software specifications
+software developer,optional,Haskell
+software developer,optional,KDevelop
+software developer,optional,Erlang
+software developer,optional,SAS language
+software developer,optional,Ruby (computer programming)
+software developer,optional,Common Lisp
+software developer,optional,Apache Maven
+software developer,optional,Lisp
+software developer,optional,Apache Tomcat
+software developer,optional,Visual Basic
+software developer,optional,screen reader
+software developer,optional,defence standard procedures
+software developer,optional,Java (computer programming)
+software developer,optional,Drupal
+software developer,optional,software frameworks
+software developer,optional,Prolog (computer programming)
+software developer,optional,OpenEdge Advanced Business Language
+software developer,optional,blockchain openness
+software developer,optional,JavaScript
+software developer,optional,Perl
+software developer,optional,Smalltalk (computer programming)
+software developer,optional,PHP
+software developer,optional,software anomalies
+software developer,optional,Xcode
+software developer,optional,Assembly (computer programming)
+software developer,optional,C#
+software developer,optional,R
+software developer,optional,Groovy
+software developer,optional,ASP.NET
+software developer,optional,cyber attack counter-measures
+software developer,optional,APL
+software developer,optional,SQL
+software developer,optional,object-oriented modelling
+software developer,optional,Puppet (tools for software configuration management)
+software developer,optional,data visualisation software
+software developer,optional,smart contract
+software developer,optional,STAF
+software developer,optional,Eclipse (integrated development environment software)
+software developer,optional,WordPress
+software developer,optional,Ansible
+software developer,optional,NoSQL
+software developer,optional,ICT security legislation
+software developer,optional,Microsoft Visual C++
+software developer,optional,TypeScript
+software developer,optional,World Wide Web Consortium standards
+software developer,optional,Oracle Application Development Framework
+software developer,optional,Ajax Framework
+software developer,optional,blockchain platforms
+software developer,optional,CoffeeScript
+software developer,optional,Objective-C
+software developer,optional,JavaScript Framework
+software developer,optional,ML (computer programming)
+software developer,optional,IBM WebSphere
+software developer,optional,SPARK
+software developer,optional,AJAX
+software developer,optional,C++
+software developer,optional,trading software
+software developer,optional,SAP R3
+software developer,optional,Swift (computer programming)
+software developer,optional,MATLAB
+software developer,optional,Salt (tools for software configuration management)
+software developer,optional,Python (computer programming)
+software developer,optional,Scratch (computer programming)
+software developer,optional,VBScript
+software developer,optional,COBOL
+software developer,optional,Pascal (computer programming)
+software developer,optional,ABAP
+software developer,optional,Internet of Things
+software developer,optional,Jenkins (tools for software configuration management)
+software developer,optional,Scala
+software developer,optional,migrate existing data
+software developer,optional,use concurrent programming
+software developer,optional,use logic programming
+software developer,optional,do cloud refactoring
+software developer,optional,use object-oriented programming
+software developer,optional,collect customer feedback on applications
+software developer,optional,use query languages
+software developer,optional,use automatic programming
+software developer,optional,utilise machine learning
+software developer,optional,develop creative ideas
+software developer,optional,use functional programming
+software developer,optional,integrate system components
+software developer,optional,adapt to changes in technological development plans
+software developer,optional,design user interface
+ICT business analyst,essential,business requirements techniques
+ICT business analyst,essential,digital systems
+ICT business analyst,essential,product usage risks analysis
+ICT business analyst,essential,business process modelling
+ICT business analyst,essential,legal requirements of ICT products
+ICT business analyst,essential,propose ICT solutions to business problems
+ICT business analyst,essential,identify customer requirements
+ICT business analyst,essential,translate requirements into visual design
+ICT business analyst,essential,apply change management
+ICT business analyst,essential,provide cost benefit analysis reports
+ICT business analyst,essential,analyse business processes
+ICT business analyst,essential,create business process models
+ICT business analyst,essential,analyse the context of an organisation
+ICT business analyst,essential,interact with users to gather requirements
+ICT business analyst,essential,analyse business requirements
+ICT business analyst,essential,identify legal requirements
+ICT business analyst,essential,define technical requirements
+ICT business analyst,essential,implement strategic planning
+ICT business analyst,optional,systems development life-cycle
+ICT business analyst,optional,internal risk management policy
+ICT business analyst,optional,business intelligence
+ICT business analyst,optional,information architecture
+ICT business analyst,optional,innovation processes
+ICT business analyst,optional,visual presentation techniques
+ICT business analyst,optional,decision support systems
+ICT business analyst,optional,information extraction
+ICT business analyst,optional,organisational resilience
+ICT business analyst,optional,information categorisation
+ICT business analyst,optional,cloud technologies
+ICT business analyst,optional,business strategy concepts
+ICT business analyst,optional,unstructured data
+ICT business analyst,optional,business ICT systems
+ICT business analyst,optional,ICT market
+ICT business analyst,optional,design process
+ICT business analyst,optional,execute analytical mathematical calculations
+ICT business analyst,optional,provide user documentation
+ICT business analyst,optional,manage ICT project

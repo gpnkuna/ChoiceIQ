@@ -1,0 +1,21 @@
+model,profile,expected_relevant,top_3,hits,precision_at_3,recall_at_3,f1_at_3,reciprocal_rank
+Cosine,Data & research,Data Scientist | Data Analyst | Data Engineer,Data Analyst | Data Scientist | Data Engineer,3,1.0,1.0,1.0,1.0
+Cosine,Software builder,Software Developer | Web Developer | Mobile Application Developer,Software Tester | Web Developer | Software Developer,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.5
+Cosine,Cyber investigator,Digital Forensics Expert | Cyber Incident Responder | Ethical Hacker,Ethical Hacker | Ict Security Technician | Digital Forensics Expert,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Cosine,Network infrastructure,Ict Network Engineer | Ict Network Administrator | Ict Network Architect,Ict Network Administrator | Ict System Administrator | Ict Network Architect,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Cosine,Cloud platform,Cloud Engineer | Cloud Architect | Cloud Devops Engineer,Ict Network Administrator | Ict Technician | Ict System Administrator,0,0.0,0.0,0.0,0.2
+Cosine,Security operations,Ict Security Administrator | Ict Security Technician | Cybersecurity Risk Manager,Ict Security Administrator | Ict Security Technician | Ethical Hacker,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Cosine,Systems analysis,Ict System Administrator | Ict System Analyst | Ict System Architect,Ict System Analyst | Ict Network Administrator | Ict System Architect,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Cosine,UX interface,User Interface Designer | Web Developer | Software Developer,User Interface Designer | Ict System Architect | Artificial Intelligence Engineer,1,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+Cosine,Database,Database Administrator | Database Developer | Data Engineer,Database Developer | Database Administrator | Data Engineer,3,1.0,1.0,1.0,1.0
+Cosine,IT support,Ict Help Desk Agent | Ict Technician | Ict System Administrator,Ict System Analyst | Ict Help Desk Agent | Ict Network Administrator,1,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5
+Euclidean,Data & research,Data Scientist | Data Analyst | Data Engineer,Data Analyst | Data Scientist | Database Developer,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Euclidean,Software builder,Software Developer | Web Developer | Mobile Application Developer,Software Tester | Web Developer | Ict Network Engineer,1,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.5
+Euclidean,Cyber investigator,Digital Forensics Expert | Cyber Incident Responder | Ethical Hacker,Ethical Hacker | Digital Forensics Expert | Ict Security Technician,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Euclidean,Network infrastructure,Ict Network Engineer | Ict Network Administrator | Ict Network Architect,Ict Network Administrator | Ict System Administrator | Ict Network Architect,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Euclidean,Cloud platform,Cloud Engineer | Cloud Architect | Cloud Devops Engineer,Ict Network Administrator | Ict System Administrator | Ict Network Engineer,0,0.0,0.0,0.0,0.25
+Euclidean,Security operations,Ict Security Administrator | Ict Security Technician | Cybersecurity Risk Manager,Ict Security Technician | Ethical Hacker | Digital Forensics Expert,1,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+Euclidean,Systems analysis,Ict System Administrator | Ict System Analyst | Ict System Architect,Ict System Analyst | Ict Network Administrator | Ict System Architect,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Euclidean,UX interface,User Interface Designer | Web Developer | Software Developer,User Interface Designer | Ict System Architect | Artificial Intelligence Engineer,1,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+Euclidean,Database,Database Administrator | Database Developer | Data Engineer,Database Developer | Database Administrator | Data Analyst,2,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+Euclidean,IT support,Ict Help Desk Agent | Ict Technician | Ict System Administrator,Ict System Analyst | Ict Network Administrator | Ict System Administrator,1,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333

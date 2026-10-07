@@ -1,0 +1,31 @@
+career,sa_validation_status,sa_official_match,sa_high_demand_2024,sa_critical_skills_2023,sa_validation_source
+Artificial Intelligence Engineer,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Cloud Architect,Related official occupation,Computer Network and Systems Engineer,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Cloud Devops Engineer,Related official occupation,Computer Network and Systems Engineer / Systems Administrator,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Cloud Engineer,Related official occupation,Computer Network and Systems Engineer,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Computer Scientist,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Cyber Incident Responder,Related official occupation,ICT Security Specialist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Cybersecurity Risk Manager,Related official occupation,ICT Security Specialist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Data Analyst,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Data Engineer,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Data Scientist,Exact official occupation,Data Scientist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Database Administrator,Related official occupation,Database Designer and Administrator,True,False,DHET 2024 High Demand
+Database Developer,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Digital Forensics Expert,Related official occupation,ICT Security Specialist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ethical Hacker,Related official occupation,ICT Security Specialist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict Business Analyst,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Ict Help Desk Agent,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Ict Network Administrator,Related official occupation,Systems Administrator / Network Analyst,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict Network Architect,Related official occupation,Computer Network and Systems Engineer,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict Network Engineer,Related official occupation,Computer Network and Systems Engineer,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict Security Administrator,Related official occupation,ICT Security Specialist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict Security Technician,Related official occupation,ICT Security Specialist,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict System Administrator,Related official occupation,Systems Administrator,True,False,DHET 2024 High Demand
+Ict System Analyst,Exact official occupation,ICT Systems Analyst,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict System Architect,Related official occupation,ICT Systems Analyst,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Ict Technician,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Mobile Application Developer,Related official occupation,Applications Programmer,False,True,DHA 2023 Critical Skills
+Software Developer,Exact official occupation,Software Developer,True,True,DHET 2024 High Demand + DHA 2023 Critical Skills
+Software Tester,Related official occupation,Computer Quality Assurance Analyst,False,True,DHA 2023 Critical Skills
+User Interface Designer,Not directly matched in supplied lists,,False,False,No direct match in supplied official lists
+Web Developer,Exact official occupation,Web Developer,True,False,DHET 2024 High Demand

@@ -1,0 +1,24 @@
+{
+  "selected_model": "Cosine content-based k-NN",
+  "selection_reason": "Higher Precision@3 and F1@3 on the expert-defined benchmark profiles, while remaining easy to explain.",
+  "features": [
+    "data_analytics",
+    "programming",
+    "mathematics",
+    "cybersecurity",
+    "networking",
+    "problem_solving",
+    "creativity_design",
+    "systems_cloud",
+    "communication_business"
+  ],
+  "career_count": 30,
+  "evaluation_note": "Evaluation uses 10 expert-defined prototype profiles because no historical user-rating dataset is available. Metrics are demonstration metrics, not population-level accuracy claims.",
+  "selected_metrics": {
+    "precision_at_3": 0.5999999999999999,
+    "recall_at_3": 0.5999999999999999,
+    "f1_at_3": 0.5999999999999999,
+    "mrr": 0.82,
+    "benchmark_profiles": 10
+  }
+}
